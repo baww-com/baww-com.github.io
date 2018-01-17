@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/baww" # the subpath of your site, e.g. /blog/
+baseurl: "/baww-com.github.io" # the subpath of your site, e.g. /blog/
 url: "https://baww-com.github.io/” # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
