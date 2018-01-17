@@ -43,4 +43,89 @@
   gtag('config', 'UA-112529143-1');
 </script>
 	{% endif %}
+	<script src='http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js' type='text/javascript'/>
+<script type='text/javascript'>
+var a = $(this);
+var href = a.attr(&#39;href&#39;);
+$(document).ready(function() {
+
+$(&quot;a[href^=&#39;http://&#39;]&quot;).each(function () {
+if(this.href.indexOf(location.hostname) == -1) {
+$(this).attr(&#39;target&#39;, &#39;_blank&#39;);
+$(this).attr(&#39;title&#39;, &#39;Click to open in a new window&#39;);
+$(this).attr(&#39;rel&#39;, &#39;nofollow&#39;);
+}
+}
+);
+$(&quot;a[href^=&#39;https://&#39;]&quot;).each(function () {
+if(this.href.indexOf(location.hostname) == -1) {
+$(this).attr(&#39;target&#39;, &#39;_blank&#39;);
+$(this).attr(&#39;title&#39;, &#39;Click to open in a new window&#39;);
+$(this).attr(&#39;rel&#39;, &#39;nofollow&#39;);
+}
+}
+);
+
+});
+
+</script>
+<script>
+var aff = new Array();
+
+/* define your links here */
+
+aff['https://www.ledgerwallet.com/r/607d'] = 'https://www.buyaltcoinsworldwide.com/go/ledger';
+
+aff['https://www.binance.com/?ref=18991911'] = 'https://www.buyaltcoinsworldwide.com/go/binance';
+
+aff['https://changelly.com/?ref_id=4af50f9c87f2'] = 'https://www.buyaltcoinsworldwide.com/go/changelly';
+aff['https://localbitcoins.com/?ch=mj9n'] = 'https://www.buyaltcoinsworldwide.com/go/localbitcoins';
+aff['https://www.coinbase.com/join/53bc38a3b11f6623df000004'] = 'https://www.buyaltcoinsworldwide.com/go/coinbase';
+aff['https://www.coinmama.com/?ref=buyaltcoinsworldwide'] = 'https://www.buyaltcoinsworldwide.com/go/coinmama';
+
+/* do not edit below this point */
+
+/* reverse the key/value pairs so we can lookup based on value */
+
+var aff_reverse = new Array();
+for (k in aff) {
+aff_reverse[aff[k]] = k;
+}
+
+/* scan all links when the document loads */
+
+$(document).ready(function(){
+$('a').attr('href',function(){
+
+/* if the link isn't listed above, do nothing */
+if (!aff[$(this).attr('href')]) {return $(this).attr('href');}
+
+/* ok, the link is in our list */
+$(this).click(function(){
+
+/* when the link is clicked on, revert it back to the affiliate link */
+
+//$(this).attr('href', aff_reverse[$(this).attr('href')]);
+return true;
+});
+$(this).mouseup(function(){
+
+/* Firefox ignores onclick event when the link is opened via middle mouse (new tab) */
+$(this).attr('href', aff_reverse[$(this).attr('href')]);
+return true;
+});
+$(this).mouseout(function(){
+
+/* revert back to non-aff link in case they opened in new tab */
+
+$(this).attr('href', aff[$(this).attr('href')]);
+return true;
+});
+
+/* change the affiliate link to a non-affiliate link */
+
+return aff[$(this).attr('href')];
+});
+});
+</script>
 </head>
