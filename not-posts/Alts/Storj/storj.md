@@ -1,31 +1,41 @@
 ---
 layout: page
 title: How to Buy Storj Cryptocurrency
-seo_title: "2 Methods to Buy Storj Cryptocurrency - Credit Card and Bank"
+seo_title: "2 Ways to Buy Storj Cryptocurrency - Credit Card and Bank"
 permalink: /storj/
 ---
 
 
-## Storj ![StorjIcon](/img/storj.png){: .cryptoicons }	
+## Storj ![StorjIcon](/img/storj.png){: .cryptoicons }
 
 
 ## How to Buy Storj with Credit Card and Debit Card
 
-The easiest and cheapest way to get Storj with a debit or credit card, is to buy Bitcoin with your credit or debit card, and then send it to an exchange that sells Storj. The exchange with the lowest fees, that sells Storj is [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}.
+The best way to get Storj with a debit or credit card, is to buy Bitcoin with your credit or debit card, then send it to an exchange that sells Storj such as [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}.
 
 ## How to Buy Storj with Bank Transfer
 
-Just like credit and debit cards, the best way obtaining Storj with a Bank Transfer is to buy Bitcoin on [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}, and then send it to an exchange that sells Storj. [Binance](https://www.binance.com/?ref=18991911){:target="_blank"} is the cheapest exchange that sells Storj. All will be explained below, with pictures.
+The best way obtaining Storj with a Bank Transfer is to buy Bitcoin on [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}, and then send it to an exchange that sells Storj. [Binance](https://www.binance.com/?ref=18991911){:target="_blank"} is the cheapest exchange that sells Storj. Please see tutorial below.
 
 ## Method 1 - USD/EUR -> BTC -> Storj
 
 
-## Step 1: Buy Bitcoin if you Don’t have Some Already.
+## Step 1: Buy Bitcoin
 
-There are several exchanges to buy bitcoin on. We reccomend [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}, [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwideio){:target="_blank"}, or [BitPanda](https://www.bitpanda.com/?ref=7989064235904733469){:target="_blank"}. Each of these exchanges have their advantages. Coinbase is the most beginner friendly while Coinmama is great for credit and debit transactions as it has very high purchase limits and instant delivery. BitPanda is great for people in Europe and has a 5% fee on credit and debit purchases. In this example, we are going to use coinbase. If you purchase over $100 of Bitcoin through the following link, you will recieve an extra $10 BTC for FREE! Create an account [on Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} if you don’t have one already and then add your payment method. Coinbases signup process may take some time, but this ensures security for customers. Click the Buy/Sell tab on the top/middle of your screen. From this page, you can easily purchase Bitcoin, Litecoin, and Ethereum. All of these can be converted into Storj on exchanges such as [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}, but for the purposes of this tutorial we will use Bitcoin. 
+There are several exchanges through which you can buy Bitcoin.
+[Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}, [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwide){:target="_blank"}, or [BitPanda](https://www.bitpanda.com/?ref=7989064235904733469){:target="_blank"} are the easiest to use.
 
+[Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} is a very beginner friendly US based exchange, that sells cryptocurrency to most countries and all US states. To see if Coinbase supports your country, [check this link](https://support.coinbase.com/customer/en/portal/articles/1392031-what-countries-are-buys-and-sells-available-in-)!
+[Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwide){:target="_blank"} handles credit or debit card purchases. Coinmama is great because they have higher credit or debit card purchasing limits than Coinbase, as well as fast delivery of your funds.
+[Bitpanda](https://www.bitpanda.com/?ref=7989064235904733469){:target="_blank"}. Bitpanda is an exchange that processes credit or debit card purchases. Their fees are slightly lower, but *ONLY* sells Bitcoin to residents of European Union (EU) countries.
 
-## Fiat to Bitcoin Exchanges 
+Coinbase is the most beginner friendly while Coinmama is great for credit or debit transactions as it has higher purchase limits and quick delivery. BitPanda is great (but it only works in Europe) and has a 5% fee on credit or debit purchases.
+We will use Coinbase in this example. Also, if you purchase over $100 of Bitcoin through the following link, you will receive an extra $10 BTC for FREE! Create an account [on Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} if you don’t have one already and then add your payment method.
+
+After creating your Coinbase account, you need to add a payment method. If you are going for the route with the lowest fees, it is best to use a bank transfer. If timing is more important, use a credit or debit card, as this is much faster!
+The Coinbase signup process takes time, but this is to ensure security for customers. Click the Buy/Sell tab on the top/middle of your screen. From this page, you can easily purchase Bitcoin, Litecoin, or Ethereum. All of these cryptocurrencies can be converted into STORJ on exchanges such as [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}, but for this tutorial we will use Bitcoin.
+
+## Fiat to Bitcoin Exchanges
 <table class="basic-table" align="center">
  <tr>
   <th>Exchange</th>
@@ -40,7 +50,7 @@ There are several exchanges to buy bitcoin on. We reccomend [Coinbase](https://w
  </tr>
 
  <tr>
-  <td><a href="https://www.coinmama.com/?ref=buyaltcoinsworldwideio">Coinmama</a></td>
+  <td><a href="https://www.coinmama.com/?ref=buyaltcoinsworldwide">Coinmama</a></td>
   <td>Mostly Everywhere</td>
   <td>5.5% Credit/Debit</td>
  </tr>
@@ -49,16 +59,17 @@ There are several exchanges to buy bitcoin on. We reccomend [Coinbase](https://w
   <td>Europe ONLY</td>
   <td>5% - Credit/Debit </td>
  </tr>
- 
+
 </table>
 
 ![Coinbasehome](/img/Coinbase3.png){: .medium-pic}
 ![Coinbasehome](/img/Coinbase2.png){: .medium-pic}
 
 
-After hitting Confirm Buy, we are ready to go top the next step! I highly recommend setting up two-factor authentication on all exchanges. Two factor authentication combines two different components to ensure the real user is trying to access the account. 
+ After hitting Confirm Buy, you are finished with this step! Next will be transferring the Bitcoin to a STORJ exchange. Also, at this point, we strongly suggest setting up two-factor authentication (2FA) on all exchanges. Two factor authentication  combines two different verification methods to ensure the real user is trying to access the account.
 
-## Bitcoin to Storj Exchanges 
+
+## Bitcoin to Storj Exchanges
 <table class="basic-table" align="center">
  <tr>
   <th>Exchange</th>
@@ -77,36 +88,38 @@ After hitting Confirm Buy, we are ready to go top the next step! I highly recomm
   <td>Everywhere</td>
   <td>.25%</td>
  </tr>
- 
+
 </table>
 
 ### Step 2: Transfer your Bitcoin
 
-After aquiring Bitcoin, you will need to move it to an exchange that has BTC/STORJ pairs. My favorite is [Bittrex](https://bittrex.com/Home/Markets){:target="_blank"} due to its simple interface and good customer support. Click the send button on Coinbase as seen in red highlight in the picture below. You will be asked for the recipients wallet adress. You will want to enter your Bittrex Bitcoin adress, which you can find  by going to your wallets page on Bittrex and click the plus sign next to Bitcoin as seen in the second picture. Copy and paste the address into the recipients box on Coinbase.
+Once you have Bitcoin, you will need to move it to an exchange that has BTC/STORJ pairs.
+
+[Binance](https://www.binance.com/?ref=18991911){:target="_blank"} is hugely popular due to its intuitive interface and solid customer support. Click the send button on Coinbase as seen in red highlight in the picture below. You will be asked for the recipient's wallet address. Enter your Binance Bitcoin address, which you can find by going to the "Funds" tab on the Binance navigation bar, then clicking "Deposits Withdrawals". Once on this screen, you will see a list of coins. Scroll down to Bitcoin, and hit the "Deposit" button. Copy the address that appears and paste into Coinbase. Click send on Coinbase, and wait about 30 minutes for your BTC to arrive.
 
 ![Coinbasehome](/img/Send1.png){: .medium-pic}
 ![Coinbasehome](/img/BittrexWithdraw.png){: #biggerpicture}
-![Coinbasehome](/img/Send2.png){: .medium-pic} 
+![Coinbasehome](/img/Send2.png){: .medium-pic}
 ![Coinbasehome](/img/Send3.png){: #biggerpicture}
 
 
-Depending on the traffic on the Bitcoin network, your transfer may take 20 minutes to an hour. I know, waiting sucks, but this still way faster than a bank! 
+Depending on the traffic on the Bitcoin network, your transfer may take 20 minutes to an hour, sometimes longer. This can be stressful but do not worry!
 
 
-## Step 3: Buy some Storj!
+## Step 3: Buy Storj
 
-After sending your bitcoin to Bittrex, you will want to go to the [BTC/STORJ trading page](https://www.binance.com/?ref=18991911){:target="_blank"} and enter a ratio you are comfortable with. You can look at the orderbook and see the going rates. After your order is processed, you now hold Storj! 
+After sending your bitcoin to Binance, you will want to go to the [BTC/STORJ trading page](https://www.binance.com/trade.html?symbol=STORJ_BTC){:target="_blank"} and enter a price  with which you are comfortable. You can look at the order book to get a sense of the current rates. After your order is processed, you will see it in your Storj wallet balance in Binance!
 
 ![Storj](/img/ADX.png){: #biggerpicture}
 ![Storj](/img/ADX2.png){: #biggerpicture}
 
 
-
 ## How to Buy Storj with Changelly
 
-Step 1: Create an account on [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"}. They have a relatively easy signup process and allow the use of Google, Twitter or Facebook for faster signups.
+### Step 1: Create an account on [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"}. They have a relatively easy signup process and allow the use of Google, Twitter or Facebook logins to make the sign-up seamless.
 
-Step 2: After creating an account, you will want to go to the main page as seen here, and use the conversion box. In this example, we are going to buy Storj with USD! 
+### Step 2: Upon creating an account, go to the main page as seen here, and use the conversion box to initiate an exchange. In this example, we are going to buy Storj with USD.
+
 
 ![Coinbasehome](/img/ADXCH.png){: .medium-pic}
 ![Coinbasehome](/img/ADX3.png){: .medium-pic}
@@ -116,29 +129,31 @@ Step 2: After creating an account, you will want to go to the main page as seen 
 
 ## How to Buy Storj with PayPal
 
-Due to Paypal's chargeback feature, buying Storj with Paypal takes a few extra steps. The exchange [VirWoX](https://www.virwox.com?r=22aa25){:target="_blank"} allows you to convert paypal balance into Bitcoin. [Read our tutorial on this conversion](/buy-bitcoin/paypal/). Once you have obtained Bitcoin, you can send it to Bittrex just like the above example!
+Due to Paypal's chargeback feature, buying Storj with Paypal requires one extra step. The exchange [VirWoX](https://www.virwox.com?r=22aa25){:target="_blank"} allows you to convert paypal balance into Bitcoin. [Read our tutorial on this conversion](/buy-bitcoin/paypal/). Once you have Bitcoin, you can send it to Binance as seen in the example above.
 
 
 ## Can I Buy Storj on Coinbase?
 
-At the time of this writing, Coinbase does not sell Storj. There have been several rumors however, and many think that in early 2018 we will see several new coins, including Storj, added to Coinbase. If you are interested in buying Storj, just follow the steps above! You can trade Bitcoin's for Storj on [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}. If you don't own any Bitcoin, use [Coinbase!](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}
+Currently, Coinbase does not sell Storj. If you want to buy Storj, please follow the above steps. You can easily trade Bitcoin for Storj on [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}. If you don't own any Bitcoin, use [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} to get started!
 
-## How to Store Storj, Securely!
+## How to Store Storj
 
-Storj is a coin that runs on the Ethereum Blockchain, which means that it can be stored on [myEtherWallet](https://www.myetherwallet.com/). 
+Storj is an ERC20 coin that runs on the Ethereum Blockchain, which means that it can be stored on [myEtherWallet](https://www.myetherwallet.com/).
+Storj is also easily and securely stored on the highly popular hardware wallet [Ledger Nano S!](https://www.ledgerwallet.com/r/607d)
 
-To start using myEtherWallet, you will need to come up with a secure password. At the minimum, your password should be 9 characters long. After entering a password, press create new wallet. You will be taken to this screen where it asks to download a keystore file.
-This keystore file is an encrypted private key, that gives you access to your funds. Please make a backup of this file, by storing another copy of it on a USB or other storage device. If you lose this, it is very difficult to recover your coins. 
+In fact, all ERC20 tokens can be managed using a combination of Ledger Nano S (or Ledger Blue) using MyEtherWallet. Check out this [guide on Ledger's site.] (https://support.ledgerwallet.com/hc/en-us/articles/115005200009)
+
+To start using myEtherWallet, you will need to come up with a secure password. Your password should be at least 9 characters long. After entering a password, click "create new wallet". You will be taken to this screen where it asks to download a keystore file.
+A keystore file is an encrypted private key, that gives you access to your funds. Please make a backup of this file, by storing another copy of it on a USB or other storage device. If you lose this, it is very difficult to recover your coins.
+
 
 ![BuyAdex](/img/ethpass.png){: .medium-pic}
 ![BuyAdex](/img/keystore.png){: .medium-pic}
 
-After clicking "I understand", it will ask you show you your private key, that is un encrypted. You can print a paper wallet through the website if you would like. A paper wallet is a document that contains all the neccesary data to access your cryptocurrency. Usually containing QR Codes and your private keys.
+After clicking "I understand" it will show you your unencrypted private key. If you prefer, you can print a paper wallet through the website. A paper wallet is a document that contains all the data necessary to access your cryptocurrency, usually containing QR Codes and your private keys.
 
-
-Next, it will ask you how you would like to access your wallet. We just downloaded our encrypted private key, so we will access it using this. Press "Keystore/JSON File", and select the encrypted private key file you just downloaded. Press unlock and we are pretty much done! Your public address will be shown below. This is where you can send your ERC-20 Coins. ERC-20 Coins are any cryptocurrency that runs on the ethereum blockchain. This includes coins such as Storj, Adex, and Decentraland. 
+Next, myEtherWallet will ask you how you would like to access your wallet. You will access the wallet using the newly-downloaded encrypted private key. Click "Keystore/JSON File", and select the encrypted private key file you just downloaded. Press "unlock" and your public address will be displayed. This address is where you can send your ERC-20 Coins. ERC-20 Coins are any cryptocurrency that runs on the Ethereum blockchain. This includes coins such as 0x, Tron, and OmiseGo.
 
 ## What is the Circulating Supply of Adex?
 
-At the time of this writing, there is a circulating supply of 109,747,319 STORJ. This will eventually reach the cap of 424,999,998 STORJ.
- 
+Currently, there is a circulating supply of approximately 109,740,000 STORJ. This will eventually reach a cap of 424,999,998 STORJ.

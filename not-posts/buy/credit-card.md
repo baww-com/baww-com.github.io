@@ -20,7 +20,7 @@ There are many [Bitcoin exchanges that will let you buy bitcoins with a credit c
 
 ## Coinmama
 
-[Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwideio){:target="_blank"} is another huge Bitcoin exchange that operates globally. It supports all countries besides the obviously sanctioned ones (North Korea, etc.). It currently supports 25 US states and nearly all countries. Find which countries and states [here](https://support.coinmama.com/hc/en-us/articles/211237889-Areas-we-operate-in){:target="_blank"}.
+[Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwide){:target="_blank"} is another huge Bitcoin exchange that operates globally. It supports all countries besides the obviously sanctioned ones (North Korea, etc.). It currently supports 25 US states and nearly all countries. Find which countries and states [here](https://support.coinmama.com/hc/en-us/articles/211237889-Areas-we-operate-in){:target="_blank"}.
 
 You can buy around $150 worth with no ID verification using your credit card.
 
@@ -39,12 +39,12 @@ We like [BitPanda](https://www.bitpanda.com/?ref=7989064235904733469){:target="_
 
 ## Buy Bitcoins with Credit Card and No Verification
 
-Out of all of the companies listed above, [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwideio){:target="_blank"} requires the least amount of verification. Neither require scans of government IDs (Coinbase requires driver's license scan) and both let you purchase bitcoins with your credit card fast. 
+Out of all of the companies listed above, [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwide){:target="_blank"} requires the least amount of verification. Neither require scans of government IDs (Coinbase requires driver's license scan) and both let you purchase bitcoins with your credit card fast. 
 
 ## Buy Bitcoin with Credit Card Anonymously
 
-There is no way to buy bitcoin with a credit card anonymously because most exchanges require ID verification. You could try [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwideio){:target="_blank"}, as they require a low amount of information.
+There is no way to buy bitcoin with a credit card anonymously because most exchanges require ID verification. You could try [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwide){:target="_blank"}, as they require a low amount of information.
 
 ## Buy Bitcoin with Stolen Credit Card
 
- If you want to buy bitcoin with credit card and no verification I reccomend [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwideio). Their limits are $150 initially but can probably be raised. I do not reccomend doing this as it is highly illegal.
+ If you want to buy bitcoin with credit card and no verification I reccomend [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwide). Their limits are $150 initially but can probably be raised. I do not reccomend doing this as it is highly illegal.

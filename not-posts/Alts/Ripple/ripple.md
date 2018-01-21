@@ -1,7 +1,7 @@
 ---
 layout: page
-title: How to Buy Ripple Cryptocurrency 
-seo_title: "2 Methods to Buy Ripple Cryptocurrency - Credit Card, Debit Card and Bank"
+title: How to Buy Ripple Cryptocurrency
+seo_title: "2 Ways to Buy Ripple Cryptocurrency - Credit or Debit Card and Bank Account"
 permalink: /ripple/
 ---
 
@@ -10,32 +10,33 @@ permalink: /ripple/
 
 ## How to Buy Ripple with Credit Card and Debit Card
 
-There are two methods of buying Ripple with credit and debit cards. The first way, is by converting your currency into Bitcoin using [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}, and then converting your Bitcoin into Ripple on [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}. The second method, uses [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"} and allows for the purchase of Ripple with USD.
+There are two ways to buy Ripple with credit or debit card. The first is to convert your currency into Bitcoin using [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}, then convert Bitcoin into Ripple on [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}.
+
+The second method is [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"}, which allows for the purchase of Ripple with USD, but has higher fees to purchase.
 
 
-## How to Buy Ripple with Bank Transfer
+## How to Buy Ripple with Bank Account
 
-Just like credit and debit cards, there are two methods of buying Ripple with a bank transfer or wire. Both will be explained below, with clear pictures and steps! The first way, is by buying Bitcoin on [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} using your Bank account. After you purchase Bitcoin, you can send it to an exchange that sells Ripple. The cheapest exchange, that sells Ripple is [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}. All will be explained below with clear pictures and steps!
-
+There are two ways to buy Ripple with a bank wire or transfer. First, you can buy Bitcoin on [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} using your Bank account. After you purchase Bitcoin, you can send it to an exchange that sells Ripple, like [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}. See our tutorial below for instructions on each method.
 
 ## Method 1 - USD/EUR -> BTC -> Ripple
 
-There are several exchanges to buy Bitcoin on.
-
- We reccomend [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}, [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwideio){:target="_blank"}, or [BitPanda](https://www.bitpanda.com/?ref=7989064235904733469){:target="_blank"}.
-
-Each of these exchanges have their advantages: 
+There are several exchanges through which you can buy Bitcoin.
+[Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}, [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwide){:target="_blank"}, or [BitPanda](https://www.bitpanda.com/?ref=7989064235904733469){:target="_blank"} are the easiest to use.
 
 [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} is a very beginner friendly US based exchange, that sells cryptocurrency to most countries and all US states. To see if Coinbase supports your country, [check this link](https://support.coinbase.com/customer/en/portal/articles/1392031-what-countries-are-buys-and-sells-available-in-)!
 
+[Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwide){:target="_blank"} handles credit or debit card purchases. Coinmama is great because they have higher credit or debit card purchasing limits than Coinbase, as well as fast delivery of your funds.
+[Bitpanda](https://www.bitpanda.com/?ref=7989064235904733469){:target="_blank"}. Bitpanda is an exchange that processes credit or debit card purchases. Their fees are slightly lower, but *ONLY* sells Bitcoin to residents of European Union (EU) countries.
 
-[Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwideio){:target="_blank"} is another option that focuses on credit and debit card purchases. Coinmama is great because they have higher debit and credit card purchasing limits than Coinbase, as well as instant delivery.
+Coinbase is the most beginner friendly while Coinmama is great for credit or debit transactions as it has higher purchase limits and quick delivery. BitPanda is great (but it only works in Europe) and has a 5% fee on credit or debit purchases.
+We will use Coinbase in this example. Also, if you purchase over $100 of Bitcoin through the following link, you will receive an extra $10 BTC for FREE! Create an account [on Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} if you don’t have one already and then add your payment method.
 
-Lastly, if you are based in Europe, I would reccomend [Bitpanda](https://www.bitpanda.com/?ref=7989064235904733469){:target="_blank"}. Bitpanda is an exchange that also focuses on credit and debit card purchases. Their fees are slightly lower, but *only* sells Bitcoin to European countries.
+After creating your Coinbase account, you need to add a payment method. If you are going for the route with the lowest fees, it is best to use a bank transfer. If timing is more important, use a credit or debit card, as this is much faster!
+The Coinbase signup process takes time, but this is to ensure security for customers. Click the Buy/Sell tab on the top/middle of your screen. From this page, you can easily purchase Bitcoin, Litecoin, or Ethereum. All of these cryptocurrencies can be converted into 00000000000 on exchanges such as [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}, but for this tutorial we will use Bitcoin.
 
 
-
-## Fiat to Bitcoin Exchanges 
+## Fiat to Bitcoin Exchanges
 <table class="basic-table" align="center">
  <tr>
   <th>Exchange</th>
@@ -50,7 +51,7 @@ Lastly, if you are based in Europe, I would reccomend [Bitpanda](https://www.bit
  </tr>
 
  <tr>
-  <td><a href="https://www.coinmama.com/?ref=buyaltcoinsworldwideio">Coinmama</a></td>
+  <td><a href="https://www.coinmama.com/?ref=buyaltcoinsworldwide">Coinmama</a></td>
   <td>Mostly Everywhere</td>
   <td>5.5% - Credit/Debit</td>
  </tr>
@@ -59,13 +60,16 @@ Lastly, if you are based in Europe, I would reccomend [Bitpanda](https://www.bit
   <td>Europe ONLY</td>
   <td>5% - Credit/Debit </td>
  </tr>
- 
+
 </table>
 
 ![Coinbasehome](/img/Coinbase3.png){: .medium-pic}
 ![Coinbasehome](/img/Coinbase2.png){: .medium-pic}
 
-## Bitcoin to Ripple Exchanges 
+After hitting Confirm Buy, you are finished with this step! Next will be transferring the Bitcoin to a 000000 exchange. Also, at this point, we strongly suggest setting up two-factor authentication (2FA) on all exchanges. Two factor authentication combines two different components to ensure the real user is trying to access the account.
+
+
+## Bitcoin to Ripple Exchanges
 <table class="basic-table" align="center">
  <tr>
   <th>Exchange</th>
@@ -89,30 +93,32 @@ Lastly, if you are based in Europe, I would reccomend [Bitpanda](https://www.bit
   <td>Everywhere</td>
   <td>.25%</td>
  </tr>
- 
+
 </table>
 
 ## Step 2: Transfer your Bitcoin
 
-After aquiring bitcoin, you will need to move it to an exchange that has BTC/XRP pairs. My favorite is [Binance](https://www.binance.com/?ref=18991911){:target="_blank"} due to its simple interface and good customer support. Click the send button in your BTC wallet as seen in the picture below. You will be asked for the recipients wallet adress. You can find this by going to your wallets page on Binance and click the plus sign next to Bitcoin. Copy and paste the address into the recipients box.
+Once you have bitcoin, you will need to move it to an exchange that trades XRP/BTC. [Binance](https://www.binance.com/?ref=18991911){:target="_blank"} is hugely popular due to its intuitive interface and solid customer support. Click the send button on Coinbase as seen in red highlight in the picture below. You will be asked for the recipient's wallet address. Enter your Binance Bitcoin address, which you can find by going to the "Funds" tab on the Binance navigation bar, then clicking "Deposits Withdrawals". Once on this screen, you will see a list of coins. Scroll down to Bitcoin, and hit the "Deposit" button. Copy the address that appears and paste into Coinbase. Click send on Coinbase, and wait about 30 minutes for your BTC to arrive.
+Depending on the traffic on the Bitcoin network, your transfer may take 20 minutes to an hour, sometimes longer. This can be stressful but do not worry!
+
 
 ![Coinbasehome](/img/Send1.png){: .medium-pic}
 ![binance](/img/binancedeposit.png){: .medium-pic}
 ![Binance](/img/binancedeposit2.png){: .medium-pic}
-![Coinbasehome](/img/Send2.png){: .medium-pic} 
+![Coinbasehome](/img/Send2.png){: .medium-pic}
 ![Coinbasehome](/img/Send3.png){: #biggerpicture}
 
-## Step 3: Buy some Ripple!
+## Step 3: Buy Ripple
 
-After sending your Bitcoin to Binance, you will want to go to the [BTC/XRP trading page](https://www.binance.com/trade.html?symbol=XRP_BTC){:target="_blank"} and enter a ratio you are comfortable with. You can look at the orderbook and see the going rates. After your order is processed, you now hold Ripple! 
+After you send bitcoin to Binance, go to the [BTC/XRP trading page](https://www.binance.com/trade.html?symbol=XRP_BTC){:target="_blank"} and enter a price  with which you are comfortable. You can look at the order book to get a sense of the current rates. After your order is processed, you will see it in your Ripple wallet balance in Binance!
 
 ![Coinbasehome](/img/xrpex.png){: #biggerpicture}
 
 ## Method 2 - How to Buy Ripple with Changelly
 
-Step 1: Create an account on [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"}. They have a relatively easy signup process and allow the use of Google, Twitter or Facebook for faster signups.
+### Step 1: Create an account on [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"}. They have a relatively easy signup process and allow the use of Google, Twitter or Facebook logins to make the sign-up seamless.
 
-Step 2: After creating an account, you will want to go to the main page as seen here, and use the conversion box. In this example, we are going to buy Ripple with USD! 
+### Step 2: Upon creating an account, go to the main page as seen here, and use the conversion box to initiate an exchange. In this example, we are going to buy Ripple with USD.
 
 ![Coinbasehome](/img/XRP2.png){: .medium-pic}
 ![Coinbasehome](/img/XRP.png){: .medium-pic}
@@ -120,13 +126,13 @@ Step 2: After creating an account, you will want to go to the main page as seen 
 
 ## How to Buy Ripple with PayPal
 
-Due to Paypal's chargeback feature, buying Ripple with Paypal takes a few extra steps. The exchange [VirWoX](https://www.virwox.com?r=22aa25){:target="_blank"} allows you to convert paypal balance into Bitcoin. [Read our tutorial on this conversion](/buy-bitcoin/paypal/). Once you have obtained Bitcoin, you can send it to Bittrex just like the above example!
+Due to Paypal's chargeback feature, buying Ripple with Paypal requires one extra step. The exchange [VirWoX](https://www.virwox.com?r=22aa25){:target="_blank"} allows you to convert paypal balance into Bitcoin. [Read our tutorial on this conversion](/buy-bitcoin/paypal/). Once you have Bitcoin, you can send it to Binance as seen in the example above.
 
 
 ## Can I Buy Ripple on Coinbase?
 
-At the time of this writing, Coinbase does not sell Ripple. There have been several rumors however, and many think that in early 2018 we will see several new coins, including Ripple, added to Coinbase. If you are interested in buying ripple, just follow the steps above!
+Currently, Coinbase does not sell Ripple. Due to Ripple's increasing popularity, there is a chance it could be added to Coinbase, or other mainstream exchanges in the future. If you want to buy ripple now, please follow the above steps.
 
-## How to Store Ripple, Securely!
+## How to Store Ripple
 
-The best ripple wallet in my opinion is the [Ledger Nano S](https://www.ledgerwallet.com/r/607d). Read our [Ripple Wallet guide](/wallets/ripple/).
+Ripple is easily and securely stored on the highly popular hardware wallet [Ledger Nano S!](https://www.ledgerwallet.com/r/607d)

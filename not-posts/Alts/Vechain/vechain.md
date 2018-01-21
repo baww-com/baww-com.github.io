@@ -1,29 +1,40 @@
 ---
 layout: page
 title: How to Buy Vechain Cryptocurrency
-seo_title: "4 Methods to Buy Vechain Cryptocurrency - Credit Card and Bank"
+seo_title: "4 Methods to Buy Vechain Cryptocurrency - Credit or Debit Card and Bank Transfer"
 permalink: /vechain/
 ---
 
 
 ## How to Buy Vechain with Credit Card and Debit Card
 
-In order to get Vechain via a credit or debit card, you will need to buy Bitcoin with your card on a fiat to crypto exchange such as [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}, and then send your Bitcoin to the crypto to crypto exchange [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}. [Binance](https://www.binance.com/?ref=18991911){:target="_blank"} has the lowest fees and highest trading volume out of any exchange.
+In order to get Vechain with a credit or debit card, you will need to buy Bitcoin using [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}, then send your Bitcoin to crypto to crypto exchange such as [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}.
 
 
 ## How to Buy Vechain with Bank Transfer
 
-Just like credit and debit cards, there is one method of buying Vechain with a bank transfer or wire. This is done by trading Bitcoin, obtained via a bank transfer to [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}, where Vechain is sold. All will be explained below, with clear pictures and steps!
+There is one method of buying Vechain with a bank wire or tranfer. First, buy Bitcoin on [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} with a bank transfer, then send it to an exchange that sells Vechain, like [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}. Please see below for a detailed explanation.
 
 
 ## Method 1 - USD/EUR -> BTC -> Vechain
 
 
-## Step 1: Buy Bitcoin if you Don’t have Some Already.
+## Step 1: Buy Bitcoin
 
-There are several exchanges to buy Bitcoin on. We reccomend [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}, [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwideio){:target="_blank"}, or [BitPanda](https://www.bitpanda.com/?ref=7989064235904733469){:target="_blank"}. Each of these exchanges have their advantages. Coinbase is the most beginner friendly while Coinmama is great for credit and debit transactions as it has very high purchase limits and instant delivery. BitPanda is great for people in Europe and has a 5% fee on credit and debit purchases. In this example, we are going to use coinbase. If you purchase over $100 of Bitcoin through the following link, you will recieve an extra $10 BTC for FREE! Create an account [on Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} if you don’t have one already and then add your payment method. Coinbases signup process may take some time, but this ensures security for customers. Click the Buy/Sell tab on the top/middle of your screen. From this page, you can easily purchase Bitcoin, Litecoin, and Ethereum. All of these can be converted into Vechain on exchanges such as [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}, but for the purposes of this tutorial we will use bitcoin. 
+There are several exchanges through which you can buy Bitcoin.
+[Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}, [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwide){:target="_blank"}, or [BitPanda](https://www.bitpanda.com/?ref=7989064235904733469){:target="_blank"} are the easiest to use.
 
-## Fiat to Bitcoin Exchanges 
+[Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} is a very beginner friendly US based exchange, that sells cryptocurrency to most countries and all US states. To see if Coinbase supports your country, [check this link](https://support.coinbase.com/customer/en/portal/articles/1392031-what-countries-are-buys-and-sells-available-in-)!
+[Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwide){:target="_blank"} handles credit or debit card purchases. Coinmama is great because they have higher credit or debit card purchasing limits than Coinbase, as well as fast delivery of your funds.
+[Bitpanda](https://www.bitpanda.com/?ref=7989064235904733469){:target="_blank"}. Bitpanda is an exchange that processes credit or debit card purchases. Their fees are slightly lower, but *ONLY* sells Bitcoin to residents of European Union (EU) countries.
+
+Coinbase is the most beginner friendly while Coinmama is great for credit or debit transactions as it has higher purchase limits and quick delivery. BitPanda is great (but it only works in Europe) and has a 5% fee on credit or debit purchases.
+We will use Coinbase in this example. Also, if you purchase over $100 of Bitcoin through the following link, you will receive an extra $10 BTC for FREE! Create an account [on Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} if you don’t have one already and then add your payment method.
+
+After creating your Coinbase account, you need to add a payment method. If you are going for the route with the lowest fees, it is best to use a bank transfer. If timing is more important, use a credit or debit card, as this is much faster!
+The Coinbase signup process takes time, but this is to ensure security for customers. Click the Buy/Sell tab on the top/middle of your screen. From this page, you can easily purchase Bitcoin, Litecoin, or Ethereum. All of these cryptocurrencies can be converted into Vechain on exchanges such as [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}, but for this tutorial we will use Bitcoin.
+
+## Fiat to Bitcoin Exchanges
 <table class="basic-table" align="center">
  <tr>
   <th>Exchange</th>
@@ -38,7 +49,7 @@ There are several exchanges to buy Bitcoin on. We reccomend [Coinbase](https://w
  </tr>
 
  <tr>
-  <td><a href="https://www.coinmama.com/?ref=buyaltcoinsworldwideio">Coinmama</a></td>
+  <td><a href="https://www.coinmama.com/?ref=buyaltcoinsworldwide">Coinmama</a></td>
   <td>Mostly Everywhere</td>
   <td>5.5% Credit/Debit</td>
  </tr>
@@ -47,16 +58,17 @@ There are several exchanges to buy Bitcoin on. We reccomend [Coinbase](https://w
   <td>Europe ONLY</td>
   <td>5%</td>
  </tr>
- 
+
 </table>
 
 ![Coinbasehome](/img/Coinbase3.png){: .medium-pic}
 ![Coinbasehome](/img/Coinbase2.png){: .medium-pic}
 
 
-After hitting Confirm Buy, we are ready to go top the next step! I highly recommend setting up two-factor authentication on all exchanges. Two factor authentication combines two different components to ensure the real user is trying to access the account. 
+ After hitting Confirm Buy, you are finished with this step! Next will be transferring the Bitcoin to a Vechain exchange. Also, at this point, we strongly suggest setting up two-factor authentication (2FA) on all exchanges. Two factor authentication  combines two different verification methods to ensure the real user is trying to access the account.
 
-## Bitcoin to Vechain Exchanges 
+
+## Bitcoin to Vechain Exchanges
 <table class="basic-table" align="center">
  <tr>
   <th>Exchange</th>
@@ -73,46 +85,51 @@ After hitting Confirm Buy, we are ready to go top the next step! I highly recomm
 
 ## Step 2: Transfer your Bitcoin
 
-After aquiring Bitcoin, you will need to move it to an exchange that has BTC/VEN pairs. My favorite is [Binance](https://www.binance.com/?ref=18991911){:target="_blank"} due to its simple interface and good customer support. Click the send button on Coinbase as seen in red highlight in the picture below. You will be asked for the recipients wallet adress. You will want to enter your Binance Bitcoin adress, which you can find by going to the Funds tab on the Binance navigation bar and then clicking "Deposits Withdrawls". Once on this screen, you will see a list of coins. Scroll down to Bitcoin, and hit the plus sign. This is the address you will copy and paste into Coinbase. Click send on Coinbase, and wait 15-30 minutes for your BTC to arrive. 
+Once you have Bitcoin, you will need to move it to an exchange that has BTC/VEN pairs. [Binance](https://www.binance.com/?ref=18991911){:target="_blank"} is hugely popular due to its intuitive interface and solid customer support. Click the send button on Coinbase as seen in red highlight in the picture below. You will be asked for the recipient's wallet address. Enter your Binance Bitcoin address, which you can find by going to the "Funds" tab on the Binance navigation bar, then clicking "Deposits Withdrawals". Once on this screen, you will see a list of coins. Scroll down to Bitcoin, and hit the "Deposit" button. Copy the address that appears and paste into Coinbase. Click send on Coinbase, and wait about 30 minutes for your BTC to arrive.
+Depending on the traffic on the Bitcoin network, your transfer may take 20 minutes to an hour, sometimes longer. This can be stressful but do not worry!
+
 
 ![Coinbasehome](/img/Send1.png){: .medium-pic}
 ![binance](/img/binancedeposit.png){: .medium-pic}
 ![Binance](/img/binancedeposit2.png){: .medium-pic}
-![Coinbasehome](/img/Send2.png){: .medium-pic} 
+![Coinbasehome](/img/Send2.png){: .medium-pic}
 ![Coinbasehome](/img/Send3.png){: #biggerpicture}
 
 
-## Step 3: Buy some Vechain!
+## Step 3: Buy Vechain
 
-After your Bitcoin arrives, you will have a balance to purchase Vechain with. Go to the [VEN/BTC page](https://www.binance.com/trade.html?symbol=VEN_BTC) and you will see a box that says Buy Vechain. In the box, enter a price you are comfortable buying Vechain at. To get a good idea, you can check the order book on either side.
+Once your Bitcoin arrives, you will have a balance with which to purchase Vechain. Go to the [VEN/BTC page](https://www.binance.com/trade.html?symbol=VEN_BTC) and you will see a box that says Buy Vechain. In the box, enter a price with which you are comfortable. You can look at the order book to get a sense of the current rates. After your order is processed, you will see it in your Vechain wallet balance in Binance!
 
 ![BuyVechain](/img/venex.png){: .medium-pic}
 
 ## How to Buy Vechain with PayPal
 
-Due to Paypal's chargeback feature, buying Vechain with Paypal takes a few extra steps. The exchange [VirWoX](https://www.virwox.com?r=22aa25){:target="_blank"} allows you to convert paypal balance into Bitcoin. [Read our tutorial on this conversion](/buy-bitcoin/paypal/). Once you have obtained Bitcoin, you can send it to [Binance](https://www.binance.com/?ref=18991911) just like the above example!
+Due to Paypal's chargeback feature, buying Vechain with Paypal requires one extra step. The exchange [VirWoX](https://www.virwox.com?r=22aa25){:target="_blank"} allows you to convert paypal balance into Bitcoin. [Read our tutorial on this conversion](/buy-bitcoin/paypal/). Once you have Bitcoin, you can send it to [Binance](https://www.binance.com/?ref=18991911) as seen in the example above.
 
 
 ## Can I Buy Vechain on Coinbase?
 
-At the time of this writing, Coinbase does not sell Vechain. There have been several rumors however, and many think that in early 2018 we will see several new coins, including Vechain, added to Coinbase. If you are interested in buying Vechain, just follow the steps above! You can trade Bitcoin's for Vechain on [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}. If you don't own any Bitcoin, use [Coinbase!](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}
+Currently, Coinbase does not sell Vechain. If you want to buy Vechain, please follow the above steps. You can easily trade Bitcoin for Vechain on [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}. If you don't own any Bitcoin, use [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} to get started!
 
-## Step 4: How to Store you Vechain, Securely!
+## Step 4: How to securely store Vechain
 
-Vechain is a coin that runs on the Ethereum Blockchain, which means that it can be stored on [myEtherWallet](https://www.myetherwallet.com/). 
+Vechain is an ERC20 coin that runs on the Ethereum Blockchain, which means that it can be stored on [myEtherWallet](https://www.myetherwallet.com/).
+Vechain is also easily and securely stored on the highly popular hardware wallet [Ledger Nano S!](https://www.ledgerwallet.com/r/607d)
 
-To start using myEtherWallet, you will need to come up with a secure password. At the minimum, your password should be 9 characters long. After entering a password, press create new wallet. You will be taken to this screen where it asks to download a keystore file.
-This keystore file is an encrypted private key, that gives you access to your funds. Please make a backup of this file, by storing another copy of it on a USB or other storage device. If you lose this, it is very difficult to recover your coins. 
+In fact, all ERC20 tokens can be managed using a combination of Ledger Nano S (or Ledger Blue) using MyEtherWallet. Check out this [guide on Ledger's site.] (https://support.ledgerwallet.com/hc/en-us/articles/115005200009)
 
-![EOS](/img/ethpass.png){: .medium-pic}
-![EOS](/img/keystore.png){: .medium-pic}
-
-After clicking "I understand", it will ask you show you your private key, that is un encrypted. You can print a paper wallet through the website if you would like. A paper wallet is a document that contains all the neccesary data to access your cryptocurrency. Usually containing QR Codes and your private keys.
+To start using myEtherWallet, you will need to come up with a secure password. Your password should be at least 9 characters long. After entering a password, click "create new wallet". You will be taken to this screen where it asks to download a keystore file.
+A keystore file is an encrypted private key, that gives you access to your funds. Please make a backup of this file, by storing another copy of it on a USB or other storage device. If you lose this, it is very difficult to recover your coins.
 
 
-Next, it will ask you how you would like to access your wallet. We just downloaded our encrypted private key, so we will access it using this. Press "Keystore/JSON File", and select the encrypted private key file you just downloaded. Press unlock and we are pretty much done! Your public address will be shown below. This is where you can send your ERC-20 Coins. ERC-20 Coins are any cryptocurrency that runs on the ethereum blockchain. This includes coins such as Vechain, OmiseGo, and Monaco. 
+![BuyAdex](/img/ethpass.png){: .medium-pic}
+![BuyAdex](/img/keystore.png){: .medium-pic}
+
+After clicking "I understand" it will show you your unencrypted private key. If you prefer, you can print a paper wallet through the website. A paper wallet is a document that contains all the data necessary to access your cryptocurrency, usually containing QR Codes and your private keys.
+
+Next, myEtherWallet will ask you how you would like to access your wallet. You will access the wallet using the newly-downloaded encrypted private key. Click "Keystore/JSON File", and select the encrypted private key file you just downloaded. Press "unlock" and your public address will be displayed. This address is where you can send your ERC-20 Coins. ERC-20 Coins are any cryptocurrency that runs on the Ethereum blockchain. This includes coins such as 0x, OmiseGo, and Storj.
+
 
 ## What is the Circulating Supply of Vechain?
 
-At the time of this writing, there is a circulating supply of 277,162,633 VEN. This will eventually reach the cap of 867,162,633 VEN.	
-
+At the time of this writing, there is a circulating supply of approximately 277,162,000 VEN. This will eventually reach a cap of 867,162,633 VEN.	

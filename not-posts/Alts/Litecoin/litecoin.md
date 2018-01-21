@@ -1,36 +1,27 @@
 ---
 layout: page
 title: How to Buy Litecoin Cryptocurrency
-seo_title: "2 Methods to Buy Litecoin Cryptocurrency - Credit Card, Debit Card and Bank"
+seo_title: "2 Ways to Buy Litecoin Cryptocurrency - Credit or Debit Card, or Bank Account"
 permalink: /litecoin/
 ---
 
 ## Litecoin ![LitecoinIcon](/img/Litecoin.png){: .cryptoicons }
 
-## Credit Card
+## Buy Litecoin with Credit or Debit Card
 
-Buying with a credit card is one of the most popular and easy ways to aquire Litecoin. We reccomend using either Coinmama or Coinbase. If you signup and purchase through [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}, you will receive an extra $10 in Litecoin! If Coinbase isn't your style, [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwideio){:target="_blank"} is great too. In this demonstration, we will use Coinbase. After adding your credit card (Coinbase does not accept Discover), click the Buy/Sell tab and select Litecoin! 
+It is very easy to buy Litecoin with a credit or debit card on [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}. Alternatively, [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwide){:target="_blank"} is great too. This tutorial will show how to buy with Coinbase. After adding your credit or debit card info, click the Buy/Sell tab and choose Litecoin. Enter the amount you wish to buy, and that's it! Litecoin should appear in your Coinbase wallet very quickly.
 
+## Buy Litecoin with Bank Account
 
-
-## Debit Card
-
-Buying with a debit card is another popular and easy way to aquire Litecoin. We advise using either Coinmama or Coinbase. If you create an account and purchase through [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}, you will receive an extra $10 in Litecoin! If Coinbase isn't your style, [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwideio){:target="_blank"} is great too. In this demonstration, we will use Coinbase. After adding your credit card (Coinbase does not accept Discover), click the Buy/Sell tab and select Litecoin! 
-
-
-
-## Bank Account or Bank Transfer
-
-Using a [bank account or bank transfer](/buy-bitcoin/bank/) can allow you to buy larger amounts of Litecoin. Follow the same steps as above, but add your bank as a payment method.
-
+Though it takes longer to complete a bank transfer, using a [bank account or bank transfer](/buy-bitcoin/bank/) will allow you to buy larger amounts of Litecoin. Follow the same steps as above, but add your bank as a payment method in [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}.
 
 ## Method 2 - Changelly
 
 ## How to Buy Litecoin with Changelly
 
-### Step 1: Create an account on [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"}. They have a relatively easy signup process and allow the use of Google, Twitter or Facebook for faster signups.
+### Step 1: Create an account on [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"}. They have a relatively easy signup process and allow the use of Google, Twitter or Facebook logins to make the sign-up seamless.
 
-### Step 2: After creating an account, you will want to go to the main page as seen here, and use the conversion box. In this example, we are going to buy Litecoin with USD! 
+### Step 2: Upon creating an account, go to the main page as seen here, and use the conversion box to initiate an exchange. In this example, we are going to buy Litecoin with USD.
 
 ![Litecoin Changelly](/img/LISKK.png){: .medium-pic}
 ![Litecoin Changelly](/img/LSK1.png){: .medium-pic}
@@ -39,6 +30,6 @@ Using a [bank account or bank transfer](/buy-bitcoin/bank/) can allow you to buy
 
 ## How to Buy Litecoin with PayPal
 
-Unfortunately, due to Paypal's chargeback feature, it is impossible to *directly* buy Litecoin with Paypal. However, the exchange [VirWoX](https://www.virwox.com?r=22aa25){:target="_blank"} allows you to convert paypal balance into Bitcoin. [Read our tutorial on this conversion](/buy-bitcoin/paypal/). Once you have obtained Bitcoin, you can send it to Bittrex or Changelly just like the above examples!
+Due to Paypal's chargeback feature, buying Lisk with Paypal takes an extra step. The exchange [VirWoX](https://www.virwox.com?r=22aa25){:target="_blank"} allows you to convert paypal balance into Bitcoin. [Read our tutorial on this conversion](/buy-bitcoin/paypal/). Once you have Bitcoin, you can send it to [Binance](https://www.binance.com/?ref=18991911){:target="_blank"} and trade it for Litecoin.
 
-#### Enjoyed the Guide? Donate Litecoin to this wallet address: LQnr2k3sEUdKYhWJDxrG8BYutiDrYrYFD9
+#### Donations graciously accepted, if this helped you please consider sending Litecoin to this wallet address: LTD5TkzaaHCmygSkafKkRznrxPo4KYNSiC

@@ -9,9 +9,9 @@ permalink: /exchanges/
 
 [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} is the most simple exchange and supports credit cards, debit cards, bank transfers, wire transfers.
 
-## [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwideio)
+## [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwide)
 
-[Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwideio) specializes in credit and debit card transactions. You will find some of the highest limits and deliviery times with Coinmama. They offer limits up to $5,000 in Bitcoin/Ethereum a day, as well as $20,000 a month. Coinmama works in most countries and US States. Find the full list [here](https://support.coinmama.com/hc/en-us/articles/211237889-Areas-we-operate-in). For you anonoymous users, Coinmama allows $150 USD orders with no verification. Coinmama's credit and debit card convenience comes at the cost of around a 6% fee.
+[Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwide) specializes in credit and debit card transactions. You will find some of the highest limits and deliviery times with Coinmama. They offer limits up to $5,000 in Bitcoin/Ethereum a day, as well as $20,000 a month. Coinmama works in most countries and US States. Find the full list [here](https://support.coinmama.com/hc/en-us/articles/211237889-Areas-we-operate-in). For you anonoymous users, Coinmama allows $150 USD orders with no verification. Coinmama's credit and debit card convenience comes at the cost of around a 6% fee.
 
 ## [Bitpanda](https://www.bitpanda.com/?ref=7989064235904733469)
 

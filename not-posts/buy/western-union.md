@@ -10,7 +10,7 @@ Western Union gets hated on a lot buy Bitcoin people. But it's actually possible
 
 ## Coinmama
 
-[Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwideio){:target="_blank"} is a large Bitcoin broker and accepts Western Union. It takes high fees but still makes it possible. 
+[Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwide){:target="_blank"} is a large Bitcoin broker and accepts Western Union. It takes high fees but still makes it possible. 
 
 ## LocalBitcoins 
 

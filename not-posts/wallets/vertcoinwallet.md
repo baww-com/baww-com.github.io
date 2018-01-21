@@ -70,9 +70,9 @@ Drag the downloaded application into your applications folder, and then open it.
 
 ![vertcoinwallet](/img/vertcoin3.png){: .medium-pic}
 
-We have now succesfully setup the Vertcoin wallet, and you can now have coins sent to your public address. To find your Vertcoin wallets public address, click the recieve tab.
+We have now succesfully setup the Vertcoin wallet, and you can now have coins sent to your public address. To find your Vertcoin wallets public address, click the receive tab.
 
-![Coinbasehome](/img/vertcoinrecieve.png){: .medium-pic}
+![Coinbasehome](/img/vertcoinreceive.png){: .medium-pic}
 
 If you would like to send your vertcoins to a friend or an exchange such as [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}, click the send tab and enter the neccesary information.
 

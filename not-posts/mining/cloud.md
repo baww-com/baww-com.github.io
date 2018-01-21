@@ -15,7 +15,7 @@ Think about it:
 
 Why would another company that already owns miners run them at a loss? If they were making money they would never give their hash power to you! 
 
-Stay away from cloud mining and if you want bitcoins then instead just [buy some bitcoins using some of the common payment methods](/buy-bitcoin/).
+Stay away from cloud mining and if you want bitcoins then instead just [Buy bitcoins using some of the common payment methods](/buy-bitcoin/).
 
 ## Bitcoin Cloud Mining Comparison
 

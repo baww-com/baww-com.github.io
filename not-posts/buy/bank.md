@@ -28,7 +28,7 @@ In this scenario, we are buying using our Bank Account, so add that as your paym
 ![CoinbaseBank](/img/BuyBank.png){: .medium-pic}
 
 
-Next, we need to add identification, Coinbase is required to ask for this by law. If you are interested in low identification requirement methods of obtaining Bitcoins, try [CoinMama](https://www.coinmama.com/?ref=buyaltcoinsworldwideio){:target="_blank"} or [LocalBitcoins](https://localbitcoins.com/?ch=mj9n){:target="_blank"}. 
+Next, we need to add identification, Coinbase is required to ask for this by law. If you are interested in low identification requirement methods of obtaining Bitcoins, try [CoinMama](https://www.coinmama.com/?ref=buyaltcoinsworldwide){:target="_blank"} or [LocalBitcoins](https://localbitcoins.com/?ch=mj9n){:target="_blank"}. 
 
 ![CoinbaseBank](/img/IDCB.png){: .medium-pic}
 

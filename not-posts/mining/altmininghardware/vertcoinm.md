@@ -43,11 +43,11 @@ Click the "Find P2Pool Nodes" button and then click "scan" to fine a node. If yo
 
 ### Step 4: Insert your Vertcoin wallet address.
 
-This adress is where your Vertcoin will be sent to.
+This address is where your Vertcoin will be sent to.
 
 ### Step 5: Select your Method
 
-Vertcoin allows CPU Mining, NVIDIA Mining, and AMD Mining. I reccomend NVIDIA or AMD to maximize your mining profits. Once you have selected your miner, press start. You may be asked for an update. After the update, you are now mining Vertcoin!
+Vertcoin allows CPU Mining, NVIDIA Mining, and AMD Mining. I reccomend NVIDIA or AMD to maximize your mining profits. Once you have  selected your miner, press start. You may be asked for an update. After the update, you are now mining Vertcoin!
 
 ### Step 6: Mine and earn Vertcoin!
 

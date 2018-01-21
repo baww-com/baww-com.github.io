@@ -1,34 +1,42 @@
 ---
 layout: page
 title: How to Buy OmiseGo Cryptocurrency
-seo_title: "2 Methods to Buy OmiseGo Cryptocurrency - Credit Card, Debit Card and Bank Paypal"
+seo_title: "2 Ways to Buy OmiseGo Cryptocurrency - Credit or Debit Card and Bank Account Paypal"
 permalink: /omisego/
 ---
 
-## OmiseGo ![OmiseGoIcon](/img/OmiseGo.jpg){: .cryptoicons }	
+## OmiseGo ![OmiseGoIcon](/img/OmiseGo.jpg){: .cryptoicons }
 
 
 ## How to Buy OmiseGo with Credit Card and Debit Card
 
-There are two methods of buying OmiseGo with credit and debit cards. The first way, is by converting your currency into Bitcoin, and then converting Bitcoin into OmiseGo. This can be done using [Binance](https://www.binance.com/?ref=18991911) .The second, using [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"} is more instant and direct, but has slightly higher fees.
+There are two ways to buy OmiseGo with a credit or debit card. The first is to convert currency into Bitcoin, then convert Bitcoin into OmiseGo. This can be done using [Binance](https://www.binance.com/?ref=18991911). The second way is to use [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"} which is faster but has higher fees to purchase.
 
 ## How to Buy OmiseGo with Bank Transfer
 
-Just like credit and debit cards, there are two methods of buying OmiseGo with a bank transfer or wire. Both will be explained below, with clear pictures and steps!
-
-## How to Buy OmiseGo with PayPal
-
-Due to Paypal's chargeback feature, buying OmiseGo with Paypal takes a few extra steps. The exchange [VirWoX](https://www.virwox.com?r=22aa25){:target="_blank"} allows you to convert paypal balance into Bitcoin. [Read our tutorial on this conversion](/buy-bitcoin/paypal/). Once you have obtained Bitcoin, you can send it to Binance just like the below example!
+There are two ways to buy OmiseGo with a bank transfer or wire. See our tutorial below for instructions on each method.
 
 ## Method 1 - USD/EUR -> BTC -> OmiseGo
 
 
-## Step 1: Buy Bitcoin if you don’t have some already.
+## Step 1: Buy Bitcoin
 
-There are several exchanges to buy bitcoin on. We reccomend [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}, [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwideio){:target="_blank"}, or [BitPanda](https://www.bitpanda.com/?ref=7989064235904733469){:target="_blank"}. Each of these exchanges have their advantages. Coinbase is the most beginner friendly. Coinmama is great for credit and debit transactions as it has very high purchase limits and instant delivery. Lastly, BitPanda is great for people in Europe and has a 3-4% fee on credit and debit purchases. In this example, we are going to use coinbase. Create an account [on Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} if you don’t have one already and then add your payment method.  Coinbases signup process may take some time, but this ensures security for customers. Click the Buy/Sell tab on the top/middle of your screen. From this page, you can easily purchase Bitcoin, Litecoin, and Ethereum. All of these can be converted into OmiseGo on exchanges such as [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}, but for the purposes of this tutorial we will use bitcoin.
+There are several exchanges through which you can buy Bitcoin.
+
+[Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}, [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwide){:target="_blank"}, or [BitPanda](https://www.bitpanda.com/?ref=7989064235904733469){:target="_blank"} are the easiest to use.
+
+[Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} is a very beginner friendly US based exchange, that sells cryptocurrency to most countries and all US states. To see if Coinbase supports your country, [check this link](https://support.coinbase.com/customer/en/portal/articles/1392031-what-countries-are-buys-and-sells-available-in-)!
+[Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwide){:target="_blank"} handles credit or debit card purchases. Coinmama is great because they have higher credit or debit card purchasing limits than Coinbase, as well as fast delivery of your funds.
+
+[Bitpanda](https://www.bitpanda.com/?ref=7989064235904733469){:target="_blank"}. Bitpanda is an exchange that processes credit or debit card purchases. Their fees are slightly lower, but *ONLY* sells Bitcoin to residents of European Union (EU) countries.
+Coinbase is the most beginner friendly while Coinmama is great for credit or debit transactions as it has higher purchase limits and quick delivery. BitPanda is great (but it only works in Europe) and has a 5% fee on credit or debit purchases.
+We will use Coinbase in this example. Also, if you purchase over $100 of Bitcoin through the following link, you will receive an extra $10 BTC for FREE! Create an account [on Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} if you don’t have one already and then add your payment method.
+
+After creating your Coinbase account, you need to add a payment method. If you are going for the route with the lowest fees, it is best to use a bank transfer. If timing is more important, use a credit or debit card, as this is much faster!
+The Coinbase signup process takes time, but this is to ensure security for customers. Click the Buy/Sell tab on the top/middle of your screen. From this page, you can easily purchase Bitcoin, Litecoin, or Ethereum. All of these cryptocurrencies can be converted into OmiseGo on exchanges such as [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}, but for this tutorial we will use Bitcoin.
 
 
-## Fiat to Bitcoin Exchanges 
+## Fiat to Bitcoin Exchanges
 <table class="basic-table" align="center">
  <tr>
   <th>Exchange</th>
@@ -43,7 +51,7 @@ There are several exchanges to buy bitcoin on. We reccomend [Coinbase](https://w
  </tr>
 
  <tr>
-  <td><a href="https://www.coinmama.com/?ref=buyaltcoinsworldwideio">Coinmama</a></td>
+  <td><a href="https://www.coinmama.com/?ref=buyaltcoinsworldwide">Coinmama</a></td>
   <td>Mostly Everywhere</td>
   <td>5.5% Credit/Debit</td>
  </tr>
@@ -52,16 +60,17 @@ There are several exchanges to buy bitcoin on. We reccomend [Coinbase](https://w
   <td>Europe ONLY</td>
   <td>5% - Credit/Debit </td>
  </tr>
- 
+
 </table>
 
 ![Coinbasehome](/img/Coinbase3.png){: .medium-pic}
 ![Coinbasehome](/img/Coinbase2.png){: .medium-pic}
 
 
-I highly recommend setting up two-factor authentication on all exchanges. Two factor authentication combines two different components to ensure the real user is trying to access the account. 
+After hitting Confirm Buy, you are finished with this step! Next will be transferring the Bitcoin to a 000000 exchange. Also, at this point, we strongly suggest setting up two-factor authentication (2FA) on all exchanges. Two factor authentication combines two different verification methods to ensure the real user is trying to access the account.
 
-## Bitcoin to OmiseGo Exchanges 
+
+## Bitcoin to OmiseGo Exchanges
 <table class="basic-table" align="center">
  <tr>
   <th>Exchange</th>
@@ -86,61 +95,59 @@ I highly recommend setting up two-factor authentication on all exchanges. Two fa
   <td>Everywhere</td>
   <td>.25%</td>
  </tr>
- 
+
 </table>
 
 ## Step 2: Transfer your Bitcoin
 
-After aquiring Bitcoin, you will need to move it to an exchange that has BTC/OMG pairs. My favorite is [Bittrex](https://bittrex.com/){:target="_blank"} because it has a simple interface and great customer support. Click the send button on Coinbase as seen in the screenshot below. You will be asked for the recipients wallet adress. You will want to enter your Bittrex Bitcoin adress, which you can find by going to your wallets page on Bittrex and click the plus sign next to Bitcoin as seen in the second picture. Copy and paste the address into the recipients box on Coinbase. Sending Bitcoin to Bittrex takes 15-30 minutes usually. If it is a bit longer don't panic!
+Once you have Bitcoin, you will need to move it to an exchange that has BTC/OMG pairs. [Binance](https://www.binance.com/?ref=18991911){:target="_blank"} is hugely popular due to its intuitive interface and solid customer support. Click the send button on Coinbase as seen in red highlight in the picture below. You will be asked for the recipient's wallet address. Enter your Binance Bitcoin address, which you can find by going to the "Funds" tab on the Binance navigation bar, then clicking "Deposits Withdrawals". Once on this screen, you will see a list of coins. Scroll down to Bitcoin, and hit the "Deposit" button. Copy the address that appears and paste into Coinbase. Click send on Coinbase, and wait about 30 minutes for your BTC to arrive.
+
+Depending on the traffic on the Bitcoin network, your transfer may take 20 minutes to an hour, sometimes longer. This can be stressful but do not worry!
 
 ![Coinbasehome](/img/Send1.png){: .medium-pic}
 ![Coinbasehome](/img/BittrexWithdraw.png){: #biggerpicture}
-![Coinbasehome](/img/Send2.png){: .medium-pic} 
+![Coinbasehome](/img/Send2.png){: .medium-pic}
 ![Coinbasehome](/img/Send3.png){: #biggerpicture}
 
-## Step 3: Buy some OmiseGo!
+## Step 3: Buy OmiseGo
 
-After sending your Bitcoin to Bittrex, you will want to go to the [BTC/OMG](https://bittrex.com/Market/Index?MarketName=BTC-OMG){:target="_blank"} trading page and enter a ratio you are comfortable with. You can look at the orderbook and see the going rates. After your order is processed, you now hold OmiseGo! 
+After sending your Bitcoin to Binance, you will want to go to the [BTC/OMG](https://www.binance.com/trade.html?symbol=OMG_BTC){:target="_blank"} trading page and enter a price with which you are comfortable. You can look at the order book to get a sense of the current rates. After your order is processed, you will see it in your OMG wallet balance in Binance!
 
 
 ## Method 2 - How to Buy OmiseGo with Changelly
 
-Step 1: Create an account on [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"}. They have a relatively easy signup process and allow the use of Google, Twitter or Facebook for faster signups.
+### Step 1: Create an account on [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"}. They have a relatively easy signup process and allow the use of Google, Twitter or Facebook logins to make the sign-up seamless.
 
-Step 2: After creating an account, you will want to go to the main page as seen here, and use the conversion box. In this example, we are going to buy Ripple with USD! 
+### Step 2: Upon creating an account, go to the main page as seen here, and use the conversion box to initiate an exchange. In this example, we are going to buy OmiseGo with USD.
 
 ![Coinbasehome](/img/OMG11.png){: .medium-pic}
 ![Coinbasehome](/img/OMG1.png){: .medium-pic}
 ![Coinbasehome](/img/OMG2.png){: .medium-pic}
 ![Coinbasehome](/img/OMG3.png){: .medium-pic}
 
-Step 3: Hit Confirm and then sent the payment to the adress! It's that easy! Crypto can be confusing at times, but we are happy to simplify it for you! In the next section we will discuss storage options.
-
 
 ## Can I Buy OmiseGo on Coinbase?
 
-At the time of this writing, Coinbase does not sell OmiseGo. There have been several rumors however, and many think that in early 2018 we will see several new coins, including OmiseGo, added to Coinbase. If you are interested in buying OmiseGo, just follow the steps above! You can trade Bitcoin's for OmiseGo on [Binance](https://www.binance.com/trade.html?symbol=OMG_BTC){:target="_blank"}. If you don't own any Bitcoin, use [Coinbase!](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}.
+Currently, Coinbase does not sell OmiseGo. If you want to buy OmiseGo, please follow the above steps. You can easily trade Bitcoin for OmiseGo on [Binance](https://www.binance.com/trade.html?symbol=OMG_BTC){:target="_blank"}. If you don't have any Bitcoin, use [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} to get started!
+
+## How to Buy OmiseGo with PayPal
+
+Due to Paypal's chargeback feature, buying OmiseGo with Paypal requires one extra step. The exchange [VirWoX](https://www.virwox.com?r=22aa25){:target="_blank"} allows you to convert paypal balance into Bitcoin. [Read our tutorial on this conversion](/buy-bitcoin/paypal/). Once you have Bitcoin, you can send it to Binance just like the below example!
 
 
-## Step 4: How to Store you OmiseGo, Securely!
+## Step 4: How to securely store OmiseGo
 
-If you are interested in storing your OmiseGo on a hardware wallet, I would reccomend the [Ledger Nano S](). 
+OmiseGo is an ERC20 coin that runs on the Ethereum Blockchain, which means that it can be stored on [myEtherWallet](https://www.myetherwallet.com/).
+OmiseGo is also easily and securely stored on the highly popular hardware wallet [Ledger Nano S!](https://www.ledgerwallet.com/r/607d)
 
-If you would like to use a free desktop alternative, you could use [Exodus](https://www.exodus.io/). I use Exodus, as it has shapeshift capabilites built in.
+There is also a free desktop alternative wallet called [Exodus](https://www.exodus.io/), which has built-in shapeshift capabilities.
 
-OmiseGo is a coin that runs on the Ethereum Blockchain, which means that it can be stored on [myEtherWallet](https://www.myetherwallet.com/). 
-
-To start using myEtherWallet, you will need to come up with a secure password. At the minimum, your password should be 9 characters long. After entering a password, press create new wallet. You will be taken to this screen where it asks to download a keystore file.
-This keystore file is an encrypted private key, that gives you access to your funds. Please make a backup of this file, by storing another copy of it on a USB or other storage device. If you lose this, it is very difficult to recover your coins. 
+To start using myEtherWallet, you will need to come up with a secure password. Your password should be at least 9 characters long. After entering a password, click "create new wallet". You will be taken to this screen where it asks to download a keystore file.
+A keystore file is an encrypted private key, that gives you access to your funds. Please make a backup of this file, by storing another copy of it on a USB or other storage device. If you lose this, it is very difficult to recover your coins.
 
 ![BuyOmiseGo](/img/ethpass.png){: .medium-pic}
 ![BuyOmiseGo](/img/keystore.png){: .medium-pic}
 
-After clicking "I understand", it will ask you show you your private key, that is un encrypted. You can print a paper wallet through the website if you would like. A paper wallet is a document that contains all the neccesary data to access your cryptocurrency. Usually containing QR Codes and your private keys.
+After clicking "I understand" it will show you your unencrypted private key. If you prefer, you can print a paper wallet through the website. A paper wallet is a document that contains all the data necessary to access your cryptocurrency, usually containing QR Codes and your private keys.
 
-
-Next, it will ask you how you would like to access your wallet. We just downloaded our encrypted private key, so we will access it using this. Press "Keystore/JSON File", and select the encrypted private key file you just downloaded. Press unlock and we are pretty much done! Your public address will be shown below. This is where you can send your ERC-20 Coins. ERC-20 Coins are any cryptocurrency that runs on the ethereum blockchain. This includes coins such as OmiseGo, Adex, and Decentraland. 
-
-### Does OmiseGo Run on the Ethereum Blockchain?
-
-Yes, until they create their own OmiseGo blockchain, OMG will run on the ethereum blockchain.
+Next, myEtherWallet will ask you how you would like to access your wallet. You will access the wallet using the newly-downloaded encrypted private key. Click "Keystore/JSON File", and select the encrypted private key file you just downloaded. Press "unlock" and your public address will be displayed. This address is where you can send your ERC-20 Coins. ERC-20 Coins are any cryptocurrency that runs on the Ethereum blockchain. This includes coins such as 0x, Tron, and OmiseGo.

@@ -24,7 +24,7 @@ You will also need electricity, preferably cheap electricity to power your miner
 
 The three main factors that determine mining profitability are electricity costs, hardware costs, and hash rate. For the most part, there is a direct correlation between hash rate, hardware cost and electricity cost. This basically means that the more expensive hardware you are using, the higher your hashrate will be. The higher your hash rate is the more electricity you will use. This isn't necesarily a bad thing as the most efficient miners have the highest hashrate. For example, the Antminer S9 has a whopping 13.5 Terahashes a second. This is a lot. Learn more about the [Antminer S9](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=undefined&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2FNew-Bitmain-Antminer-S9-13-5-TH-s-Bitcoin-BTC-Miner-Pre-Order%2F332469327782%3Fhash%3Ditem4d68b757a6%3Ag%3Azv4AAOSwJtdaIeru){:target="_blank"} here. 
 
-Once you have determined your electricity costs and hash rate, you can plug the numbers into a calculator such as [CryptoCompare](https://www.cryptocompare.com/mining/calculator/btc?HashingPower=4730&HashingUnit=GH%2Fs&PowerConsumption=1293&CostPerkWh=0.12){:target="_blank"} to determine your profitability. 
+Once you have  determined your electricity costs and hash rate, you can plug the numbers into a calculator such as [CryptoCompare](https://www.cryptocompare.com/mining/calculator/btc?HashingPower=4730&HashingUnit=GH%2Fs&PowerConsumption=1293&CostPerkWh=0.12){:target="_blank"} to determine your profitability. 
 
 I reccomend using [Whattomine](https://whattomine.com/){:target="_blank"} to determine the best coin to mine.
 

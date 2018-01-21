@@ -34,7 +34,7 @@ sitemap:
 
 }
 @media (max-width: 750px)  {
-    
+
     .imgwrapper .homeimg {
         width: 100%;
         float: left;
@@ -54,7 +54,7 @@ sitemap:
 
 .site-header {
     padding: 1% 5%;
-    background: #3399ff none repeat scroll 0 0;
+    background: #050f19 none repeat scroll 0 0;
 }
 
 
@@ -63,7 +63,7 @@ sitemap:
     color: #fff;
 }
 
-@media (max-width: 600px) { 
+@media (max-width: 600px) {
 
 	article {
     padding: 5% 4%;
@@ -77,13 +77,13 @@ sitemap:
 }
 
 .post-content a {
-	color: #3399ff;
+	color: #050f19;
 }
 
 .post-content a:hover {
-    color: #3399ff !important;
+    color: #050f19 !important;
     text-decoration: none !important;
-    border-bottom: 2px solid #3399ff;
+    border-bottom: 2px solid #050f19;
 }
 
 .site-header .site-nav li {
@@ -98,7 +98,7 @@ sitemap:
 
 .call-out {
     padding: 1% 15% !important;
-    background-color: #3399ff;
+    background-color: #050f19;
 }
 
 .internal-menu {
@@ -106,9 +106,9 @@ sitemap:
 		display: inline-block;
 		list-style-type: none;
 		padding: 10px 20px 0 0;
-		
+
 		a {
-			color: #3399ff !important;
+			color: #050f19 !important;
 		}
 	}
 }
@@ -129,7 +129,7 @@ th, td {
 }
 
 th {
-  background-color: #3399ff;
+  background-color: #050f19;
   text-color: white;
 }
 
@@ -142,7 +142,7 @@ tr:nth-child(odd) {
 }
 
 .cryptoicons {
-   max-width:27px; 
+   max-width:27px;
 }
 
 .medium-pic {
@@ -152,7 +152,7 @@ tr:nth-child(odd) {
     margin:auto;
 }
 
-#biggerpicture { 
+#biggerpicture {
     width: 100%;
     display: block;
 }

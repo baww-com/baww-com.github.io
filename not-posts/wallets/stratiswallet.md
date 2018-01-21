@@ -42,9 +42,9 @@ Drag the Stratis wallet to your applications folder, and  open it. If you securi
 
 ![vertcoinwallet](/img/stratis3.png){: .medium-pic}
 
-We have now succesfully setup the Stratis wallet. You may need to wait for your Stratis wallet to sync to the network. You can now have coins sent to your public address. To find your Vertcoin wallets public address, click the recieve tab.
+We have now succesfully setup the Stratis wallet. You may need to wait for your Stratis wallet to sync to the network. You can now have coins sent to your public address. To find your Vertcoin wallets public address, click the receive tab.
 
-![Coinbasehome](/img/vertcoinrecieve.png){: .medium-pic}
+![Coinbasehome](/img/vertcoinreceive.png){: .medium-pic}
 
 If you would like to send your vertcoins to a friend or an exchange such as [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}, click the send tab and enter the neccesary information.
 

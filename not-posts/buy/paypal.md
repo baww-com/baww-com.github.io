@@ -17,7 +17,7 @@ You'll have to follow these simple steps:
 1. Create an account on [VirWoX](https://www.virwox.com?r=22aa25){:target="_blank"} -- which stands for the Virtual World Exchange. 
 2. Fund your newly created account with PayPal in USD or Euro. 
 3. Trade your USD or Euro for SLL (another currency on VirWoX).
-4. Once you have SLL, you can trade SLL for bitcoin. 
+4. Once you have  SLL, you can trade SLL for bitcoin. 
 5. Withdrawal your bitcoins! 
 
 This process will be explained in more detail in few seconds. But, before you go on, know that this process will cost you about 10% in fees: 
@@ -33,4 +33,4 @@ You cannot buy bitcoins with PayPal at [Coinbase](https://www.coinbase.com/join/
 
 ## Buy Litecoin with PayPal 
 
-You can buy litecoins with PayPal using the same steps above. Once you have your bitcoins you can just trade them for Litecoin on any exchange. [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"} is the fastest way to do this and doesn't ever control your funds. Note that having to buy bitcoins before buying litecoins is not unique to buying with PayPal. Litecoins are very hard to buy without first purchasing bitcoins. 
+You can buy litecoins with PayPal using the same steps above. Once you have  your bitcoins you can just trade them for Litecoin on any exchange. [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"} is the fastest way to do this and doesn't ever control your funds. Note that having to buy bitcoins before buying litecoins is not unique to buying with PayPal. Litecoins are very hard to buy without first purchasing bitcoins. 

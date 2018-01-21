@@ -1,31 +1,48 @@
 ---
 layout: page
 title: How to Buy Dash Cryptocurrency
-seo_title: "2 Methods to Buy Dash Cryptocurrency - Credit Card and Bank"
+seo_title: "2 Ways to Buy Dash Cryptocurrency - Credit / Debit Card and Bank Transfer"
 permalink: /dash/
 ---
 
 
 ## How to Buy Dash with Credit Card and Debit Card
 
-There are two methods of buying Dash with credit and debit cards. The first way, is by converting your currency into Bitcoin, and then converting Bitcoin into Dash. The second, using [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"} is more instant and direct, but has slightly higher fees.
+There are two ways to buy Dash with a credit or debit card. The first is to convert your currency into Bitcoin, then convert Bitcoin into Dash. The second to use [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"}, which is more instant and direct, but has slightly higher fees.
 
 ## How to Buy Dash with Bank Transfer
 
-Just like credit and debit cards, there are two methods of buying Dash with a bank transfer or wire. Both will be explained below, with clear pictures and steps!
+There are two ways to buy Dash with a bank transfer or wire. See our tutorial below for instructions on each method.
 
 
 ## Method 1 - USD/EUR -> BTC -> Dash
 
-## Step 1: Buy Bitcoin if you Don’t have Some Already.
+## Step 1: Buy Bitcoin
 
-There are several exchanges to buy bitcoin on. We reccomend [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}, [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwideio){:target="_blank"}, or [BitPanda](https://www.bitpanda.com/?ref=7989064235904733469){:target="_blank"}. Each of these exchanges have their advantages. Coinbase is the most beginner friendly while Coinmama is great for credit and debit transactions as it has very high purchase limits and instant delivery.  BitPanda is great for people in Europe and has a 5% fee on credit and debit purchases. In this example, we are going to use coinbase. Create an account [on Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} if you don’t have one already and then add your payment method.  Coinbases signup process may take some time, but this ensures security for customers. Click the Buy/Sell tab on the top/middle of your screen. From this page, you can easily purchase Bitcoin, Litecoin, and Ethereum. All of these can be converted into Dash on exchanges such as [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}, but for the purposes of this tutorial we will use bitcoin.
+There are several exchanges through which you can buy Bitcoin. [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}, [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwide){:target="_blank"}, or [BitPanda](https://www.bitpanda.com/?ref=7989064235904733469){:target="_blank"} are the easiest to use.
+
+[Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} is a very beginner friendly US based exchange, that sells cryptocurrency to most countries and all US states. To see if Coinbase supports your country, [check this link](https://support.coinbase.com/customer/en/portal/articles/1392031-what-countries-are-buys-and-sells-available-in-)!
+[Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwide){:target="_blank"} handles credit or debit card purchases. Coinmama is great because they have higher credit or debit card purchasing limits than Coinbase, as well as fast delivery of your funds.
+[Bitpanda](https://www.bitpanda.com/?ref=7989064235904733469){:target="_blank"}. Bitpanda is an exchange that processes credit or debit card purchases. Their fees are slightly lower, but *ONLY* sells Bitcoin to residents of European Union (EU) countries.
+
+Coinbase is the most beginner friendly while Coinmama is great for credit or debit transactions as it has higher purchase limits and quick delivery. BitPanda is great (but it only works in Europe) and has a 5% fee on credit or debit purchases.
+
+We will use Coinbase in this example. Also, if you purchase over $100 of Bitcoin through the following link, you will receive an extra $10 BTC for FREE! Create an account [on Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} if you don’t have one already.
+
+After creating your Coinbase account, you need to add a payment method. If you are going for the route with the lowest fees, it is best to use a bank transfer. If timing is more important, use a credit or debit card, as this is much faster!
+
+The Coinbase signup process takes time, but this is to ensure security for customers. Click the Buy/Sell tab on the top/middle of your screen. From this page, you can easily purchase Bitcoin, Litecoin, or Ethereum.
+
+All of these cryptocurrencies can be converted into Dash on exchanges such as [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}, but for this tutorial we will use Bitcoin.
 
 
 ![Coinbasehome](/img/Coinbase3.png){: .medium-pic}
 ![Coinbasehome](/img/Coinbase2.png){: .medium-pic}
 
-## Fiat to Bitcoin Exchanges 
+
+After hitting Confirm Buy, you are finished with this step! Next will be transferring the Bitcoin to a 000000 exchange. Also, at this point, we strongly suggest setting up two-factor authentication (2FA) on all exchanges. Two factor authentication  combines two different verification methods to ensure the real user is trying to access the account.
+
+## Fiat to Bitcoin Exchanges
 <table class="basic-table" align="center">
  <tr>
   <th>Exchange</th>
@@ -40,7 +57,7 @@ There are several exchanges to buy bitcoin on. We reccomend [Coinbase](https://w
  </tr>
 
  <tr>
-  <td><a href="https://www.coinmama.com/?ref=buyaltcoinsworldwideio">Coinmama</a></td>
+  <td><a href="https://www.coinmama.com/?ref=buyaltcoinsworldwide">Coinmama</a></td>
   <td>Mostly Everywhere</td>
   <td>5.5% Credit/Debit</td>
  </tr>
@@ -49,13 +66,13 @@ There are several exchanges to buy bitcoin on. We reccomend [Coinbase](https://w
   <td>Europe ONLY</td>
   <td>5%</td>
  </tr>
- 
+
 </table>
 
 
-I highly recommend setting up two-factor authentication on all exchanges. Two factor authentication combines two different components to ensure the real user is trying to access the account. 
 
-## Bitcoin to Dash Exchanges 
+
+## Bitcoin to Dash Exchanges
 <table class="basic-table" align="center">
  <tr>
   <th>Exchange</th>
@@ -85,24 +102,24 @@ I highly recommend setting up two-factor authentication on all exchanges. Two fa
   <td>Everywhere</td>
   <td>.25%</td>
  </tr>
- 
+
 </table>
 
 ## Step 2: Transfer your Bitcoin
 
-After aquiring bitcoin, you will need to move it to an exchange that has BTC/Dash pairs. I reccomend [Binance](https://www.binance.com/?ref=18991911) or [Bitrex]() due to their simple interfaces and good customer support. Click the send button in your BTC wallet as seen in the picture below. You will be asked for the recipients wallet adress. You can find this by going to your wallets page on Bittrex and click the plus sign next to Bitcoin. Copy and paste the address into the recipients box.
+Once you have bitcoin, you will need to move it to an exchange that has BTC/Dash pairs. I reccomend [Binance](https://www.binance.com/?ref=18991911) or [Bitrex]() due to their simple interfaces and good customer support. Click the send button in your BTC wallet as seen in the picture below. You will be asked for the recipients wallet address. You can find this by going to your wallets page on Bittrex and click the plus sign next to Bitcoin. Copy and paste the address into the recipients box.
 
 ![Coinbasehome](/img/BittrexWithdraw.png){: #biggerpicture}
 ![Coinbasehome](/img/Send1.png){: .medium-pic}
-![Coinbasehome](/img/Send2.png){: .medium-pic} 
+![Coinbasehome](/img/Send2.png){: .medium-pic}
 ![Coinbasehome](/img/Send3.png){: #biggerpicture}
 
 
-Depending on the traffic on the bitcoin network, your transfer may take 20 minutes to an hour. I know, waiting sucks, but the blockchain is awesome and ensures bitcoins can't be double spended. 
+Depending on the traffic on the bitcoin network, your transfer may take 20 minutes to an hour. I know, waiting sucks, but the blockchain is awesome and ensures bitcoins can't be double spended.
 
-## Step 3: Buy some Dash!
+## Step 3: Buy Dash!
 
-After sending your bitcoin to Bittrex, you will want to go to the [BTC/Dash trading page](https://bittrex.com/Market/Index?MarketName=BTC-DASH){:target="_blank"} and enter a ratio you are comfortable with. You can look at the orderbook and see the going rates. After your order is processed, you now hold Dash! 
+After sending your bitcoin to Bittrex, you will want to go to the [BTC/Dash trading page](https://bittrex.com/Market/Index?MarketName=BTC-DASH){:target="_blank"} and enter a ratio you are comfortable with. You can look at the orderbook and see the going rates. After your order is processed, you now hold Dash!
 
 ![Coinbasehome](/img/ExchangeArk.png){: #biggerpicture}
 
@@ -111,9 +128,9 @@ After sending your bitcoin to Bittrex, you will want to go to the [BTC/Dash trad
 
 ## How to Buy Dash with Changelly
 
-Step 1: Create an account on [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"}. They have a relatively easy signup process and allow the use of Google, Twitter or Facebook for faster signups.
+### Step 1: Create an account on [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"}. They have a relatively easy signup process and allow the use of Google, Twitter or Facebook logins to make the sign-up seamless.
 
-Step 2: After creating an account, you will want to go to the main page as seen here, and use the conversion box. In this example, we are going to buy Dash with USD! 
+Step 2: After creating an account, you will want to go to the main page as seen here, and use the conversion box. In this example, we are going to buy Dash with USD!
 
 ![Coinbasehome](/img/XRP2.png){: .medium-pic}
 ![Coinbasehome](/img/XRP.png){: .medium-pic}
@@ -121,7 +138,7 @@ Step 2: After creating an account, you will want to go to the main page as seen 
 
 ## How to Buy Dash with PayPal
 
-Due to Paypal's chargeback feature, buying Dash with Paypal takes a few extra steps. The exchange [VirWoX](https://www.virwox.com?r=22aa25){:target="_blank"} allows you to convert paypal balance into Bitcoin. [Read our tutorial on this conversion](/buy-bitcoin/paypal/). Once you have obtained Bitcoin, you can send it to Bittrex just like the above example!
+Due to Paypal's chargeback feature, buying Dash with Paypal requires one extra step. The exchange [VirWoX](https://www.virwox.com?r=22aa25){:target="_blank"} allows you to convert paypal balance into Bitcoin. [Read our tutorial on this conversion](/buy-bitcoin/paypal/). Once you have Bitcoin, you can send it to Bittrex as seen in the example above.
 
 ## How do I Mine Dash?
 
@@ -129,8 +146,8 @@ Read our guide on [how to mine Dash](/mining/hardware/dash/).
 
 ## Can I Buy Dash on Coinbase?
 
-At the time of this writing, Coinbase does not sell Dash. There have been several rumors however, and many think that in early 2018 we will see several new coins, including Dash, added to Coinbase. If you are interested in buying Dash, just follow the steps above! You can trade Bitcoin's for Dash on [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}. If you don't own any Bitcoin, use [Coinbase!](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}
+Currently, Coinbase does not sell Dash. There have been several rumors however, and many think that in early 2018 we will see several new coins, including Dash, added to Coinbase. If you want to buy Dash, please follow the above steps. You can easily trade Bitcoin for Dash on [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}. If you don't own any Bitcoin, use [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} to get started!
 
-## How to Store you Dash, Securely!
+## How to securely store Dash
 
-I reccomend using [Jaxx](https://jaxx.io/support.html){:target="_blank"} to store Dash. It has desktop and smartphone functionality. If you are looking for a hardware wallet, I would reccomend [Trezor](https://shop.trezor.io?a=cryptoking.io){:target="_blank"}. 
+[Jaxx](https://jaxx.io/support.html){:target="_blank"} is a great hot wallet to store Dash. It has both desktop and smartphone support. If you are looking for a hardware wallet, Dash is also easily and securely stored on the highly popular hardware wallet [Ledger Nano S!](https://www.ledgerwallet.com/r/607d)

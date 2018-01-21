@@ -38,7 +38,7 @@ The best desktop IOTA desktop wallet is the [Offical IOTA Wallet](https://github
 *Step 4:* Enter a Seed! An IOTA Seed is a unique passcode to access your IOTA Wallet. Please keep this to yourself. A proper IOTA Seed is 81 characters long, containing capital letters, and the number 9. You can come up with your own seed, or use the website [iotaseed.io](https://iotaseed.io/){:target="_blank"}. At the bottom of iotaseed.io, you will see your seed encoded as mnemonic words, save these words somewhere safe! Incase your seed is lost, you can recover it with those words.
 
 
-*Step 5:* We are pretty much done! You can send or recieve IOTA by clicking the corresponding buttons. If you want recieve IOTA from soneone, click receieve and your public address will be revealed! If you click send, you will see an option to add a prefix. The prefixes are i, Ki, Mi, Gi, Ti. These correspond to the amount of IOTA you are sending. When you buy IOTA from an exchange, you are buying MEGA IOTA. Here is a table explaining the prefixes.
+*Step 5:* We are pretty much done! You can send or receive IOTA by clicking the corresponding buttons. If you want receive IOTA from soneone, click receieve and your public address will be revealed! If you click send, you will see an option to add a prefix. The prefixes are i, Ki, Mi, Gi, Ti. These correspond to the amount of IOTA you are sending. When you buy IOTA from an exchange, you are buying MEGA IOTA. Here is a table explaining the prefixes.
 
 ![IOTA](/img/IOTAWALLET.png){: .medium-pic} 
 ![IOTA](/img/IOTA5.png){: .medium-pic} 

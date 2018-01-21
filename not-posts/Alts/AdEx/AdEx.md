@@ -1,51 +1,46 @@
 ---
 layout: page
 title: How to Buy AdEx Cryptocurrency
-seo_title: "2 Methods to Buy AdEx Cryptocurrency - Credit Card and Bank"
+seo_title: "2 Ways to Buy AdEx Cryptocurrency - Credit Card or Bank Transfer"
 permalink: /adex/
 ---
 
 ## How to Buy AdEx with Credit Card and Debit Card
 
-There are two methods of buying AdEx with credit and debit cards. The first way, is by converting your currency into Bitcoin, and then converting Bitcoin into AdEx on an exchange such as[Binance](https://www.binance.com/?ref=18991911). The second, using [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"} is more instant and direct, and allows you to control the private keys for your coins.
+There are two ways to buy AdEx with a credit or debit card. The first is to convert your currency into Bitcoin, and then converting Bitcoin into AdEx on an exchange like [Binance](https://www.binance.com/?ref=18991911). The second is to use [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"} which is more direct and allows you to control the private keys for your coins.
 
 
 ## How to Buy AdEx with a Bank or Wire Transfer
 
-Just like credit and debit cards, there are two methods of buying AdEx with a bank transfer or wire. Adex is currently limited to cryptocurrency exchanges, and is traded on BTC pairs. In order to obtain it with a bank transfer, we will send Bitcoin that we bought via bank transfer to a cryptocurrency exchange where Adex is sold.
+There are two ways to buy AdEx with a bank transfer or wire. Adex is currently traded on BTC pairs and only listed on cryptocurrency exchanges, like [Binance](https://www.binance.com/?ref=18991911). In order to obtain it with a bank transfer, you will need to send Bitcoin bought via bank transfer to a cryptocurrency exchange where Adex is sold.
 
- The other method, involves the popular shapeshifting website [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"}. Both methods will be explained below, with clear pictures and steps! 
+The other method uses the popular cryptocurrency exchange website [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"}. See explanations below.
 
 ## Method 1 - USD/EUR -> BTC -> AdEx
 
 
-## Step 1: Buy Bitcoin if you Don’t have Some Already.
+## Step 1: Buy Bitcoin
 
-There are several exchanges that you can buy Bitcoin on.
-
- We reccomend [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}, [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwideio){:target="_blank"}, or [BitPanda](https://www.bitpanda.com/?ref=7989064235904733469){:target="_blank"}.
-
-Each of these exchanges have their advantages: 
+There are several exchanges through which you can buy Bitcoin. [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}, [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwide){:target="_blank"}, or [BitPanda](https://www.bitpanda.com/?ref=7989064235904733469){:target="_blank"} are the easiest to use.
 
 [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} is a very beginner friendly US based exchange, that sells cryptocurrency to most countries and all US states. To see if Coinbase supports your country, [check this link](https://support.coinbase.com/customer/en/portal/articles/1392031-what-countries-are-buys-and-sells-available-in-)!
 
+[Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwide){:target="_blank"} handles credit or debit card purchases. Coinmama is great because they have higher credit or debit card purchasing limits than Coinbase, as well as fast delivery of your funds.
 
-[Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwideio){:target="_blank"} is another option that focuses on credit and debit card purchases. Coinmama is great because they have higher debit and credit card purchasing limits than Coinbase, as well as instant delivery.
+[Bitpanda](https://www.bitpanda.com/?ref=7989064235904733469){:target="_blank"}. Bitpanda is an exchange that processes credit or debit card purchases. Their fees are slightly lower, but *ONLY* sells Bitcoin to residents of European Union (EU) countries.
 
-The last option is [Bitpanda](https://www.bitpanda.com/?ref=7989064235904733469){:target="_blank"}. Bitpanda is an exchange that also focuses on credit and debit card purchases. Their fees are slightly lower, but *only* sells Bitcoin to European countries.
+Coinbase is the most beginner friendly while Coinmama is great for credit or debit transactions as it has higher purchase limits and quick delivery. BitPanda is great (but it only works in Europe) and has a 5% fee on credit or debit purchases. We will use Coinbase in this example. Also, if you purchase over $100 of Bitcoin through the following link, you will receive an extra $10 BTC for FREE! Create an account [on Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} if you don’t have one already and then add your payment method. Coinbases signup process may take some time, but this ensures security for customers. Click the Buy/Sell tab on the top/middle of your screen. From this page, you can easily purchase Bitcoin, Litecoin, or Ethereum. All of these cryptocurrencies can be converted into 0x on exchanges such as [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}, but for this tutorial we will use Bitcoin.
 
-
-## Fiat to Bitcoin Exchanges 
+## Fiat to Bitcoin Exchanges
  {% include buychart.html %}
 
 ![Coinbasehome](/img/Coinbase3.png){: .medium-pic}
 ![Coinbasehome](/img/Coinbase2.png){: .medium-pic}
 
 
+After hitting Confirm Buy, you are finished with this step! Next will be transferring the Bitcoin to a 0x exchange. Also, at this point, we strongly suggest setting up two-factor authentication (2FA) on all exchanges. Two factor authentication  combines two different verification methods to ensure the real user is trying to access the account.
 
-After hitting Confirm Buy, we are ready to go top the next step! I highly recommend setting up two-factor authentication on all exchanges. Two factor authentication combines two different components to ensure the real user is trying to access the account. 
-
-## Bitcoin to AdEx Exchanges 
+## Bitcoin to AdEx Exchanges
 <table class="basic-table" align="center">
  <tr>
   <th>Exchange</th>
@@ -54,7 +49,7 @@ After hitting Confirm Buy, we are ready to go top the next step! I highly recomm
  </tr>
 
  <tr>
-  <td><a href="hhttps://www.binance.com/?ref=18991911"> Binance</a></td>
+  <td><a href="https://www.binance.com/?ref=18991911"> Binance</a></td>
   <td>Everywhere</td>
   <td>.05% </td>
  </tr>
@@ -70,34 +65,36 @@ After hitting Confirm Buy, we are ready to go top the next step! I highly recomm
   <td>.25%</td>
  </tr>
 
- 
+
 </table>
 ## Step 2: Transfer your Bitcoin
 
-After aquiring Bitcoin, you will need to move it to an exchange that has BTC/ADX pairs. My favorite is [Binance](https://launchpad.binance.com/register.html?ref=11566317){:target="_blank"} due to its simple interface and good customer support. Click the send button on Coinbase as seen in red highlight in the picture below. You will be asked for the recipients wallet adress. You will want to enter your Binance Bitcoin adress, which you can find by going to the Funds tab on the Binance navigation bar and then clicking "Deposits Withdrawls". Once on this screen, you will see a list of coins. Scroll down to Bitcoin, and hit the plus sign. This is the address you will copy and paste into Coinbase. Click send on Coinbase, and wait 15-30 minutes for your BTC to arrive. 
+Now you will need to move your Bitcoin to an exchange that has BTC/ADX pairs.
+
+[Binance](https://www.binance.com/?ref=18991911){:target="_blank"} is hugely popular due to its intuitive interface and solid customer support. Click the send button on Coinbase as seen in red highlight in the picture below. You will be asked for the recipient's wallet address. Enter your Binance Bitcoin address, which you can find by going to the "Funds" tab on the Binance navigation bar, then clicking "Deposits Withdrawals". Once on this screen, you will see a list of coins. Scroll down to Bitcoin, and hit the "Deposit" button. Copy the address that appears and paste into Coinbase. Click send on Coinbase, and wait about 30 minutes for your BTC to arrive.
 
 ![Coinbasehome](/img/Send1.png){: .medium-pic}
 ![binance](/img/binancedeposit.png){: .medium-pic}
 ![Binance](/img/binancedeposit2.png){: .medium-pic}
-![Coinbasehome](/img/Send2.png){: .medium-pic} 
+![Coinbasehome](/img/Send2.png){: .medium-pic}
 ![Coinbasehome](/img/Send3.png){: #biggerpicture}
 
 
-Depending on the traffic on the Bitcoin network, your transfer may take 20 minutes to an hour. I know, waiting sucks, but this still way faster than a bank! 
+Depending on the traffic on the Bitcoin network, your transfer may take 20 minutes to an hour, sometimes longer. This can be stressful but do not worry!
 
 
-## Step 3: Buy some AdEx!
+## Step 3: Buy AdEx!
 
-After sending your bitcoin to Binance, you will want to go to the [BTC/ADX trading page](https://www.binance.com/trade.html?symbol=ADX_BTC){:target="_blank"} and enter a ratio you are comfortable with. You can look at the orderbook and see the going rates. After your order is processed, you now hold AdEx! 
+After your Bitcoin arrives, you will have a BTC balance with which to purchase AdEx. Go to the [BTC/ADX trading page](https://www.binance.com/trade.html?symbol=ADX_BTC){:target="_blank"} and enter a ratio with which you are comfortable. You can look at the order book to get a sense of the current rates. After your order is processed, you will see it in your AdEx wallet balance in Binance!
 
 ![AdEx](/img/adxex.png){: #biggerpicture}
 
 
 ## How to Buy AdEx with Changelly
 
-Step 1: Create an account on [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"}. They have a relatively easy signup process and allow the use of Google, Twitter or Facebook for faster signups.
+Step 1: Create an account on [Changelly](https://changelly.com/?ref_id=4af50f9c87f2){:target="_blank"}. They have a relatively easy signup process and allow the use of Google, Twitter or Facebook logins to make the sign-up seamless.
 
-Step 2: After creating an account, you will want to go to the main page as seen here, and use the conversion box. In this example, we are going to buy AdEx with USD! 
+Step 2: Upon creating an account, go to the main page as seen here, and use the conversion box to initiate an exchange. In this example, we are going to buy AdEx with USD.
 
 ![Coinbasehome](/img/ADXCH.png){: .medium-pic}
 ![Coinbasehome](/img/ADX3.png){: .medium-pic}
@@ -107,29 +104,30 @@ Step 2: After creating an account, you will want to go to the main page as seen 
 
 ## How to Buy AdEx with PayPal
 
-Due to Paypal's chargeback feature, buying AdEx with Paypal takes a few extra steps. The exchange [VirWoX](https://www.virwox.com?r=22aa25){:target="_blank"} allows you to convert paypal balance into Bitcoin. [Read our tutorial on this conversion](/buy-bitcoin/paypal/). Once you have obtained Bitcoin, you can send it to Bittrex just like the above example!
+Due to Paypal's chargeback feature, buying AdEx with Paypal requires one extra step. The exchange [VirWoX](https://www.virwox.com?r=22aa25){:target="_blank"} allows you to convert paypal balance into Bitcoin. [Read our tutorial on this conversion](/buy-bitcoin/paypal/). Once you have Bitcoin, you can send it to Binance as seen in the example above.
 
 
 ## Can I Buy Adex on Coinbase?
 
-At the time of this writing, Coinbase does not sell Adex. There have been several rumors however, and many think that in early 2018 we will see several new coins, including Adex, added to Coinbase. If you are interested in buying Adex, just follow the steps above! You can trade Bitcoin's for Adex on [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}. If you don't own any Bitcoin, use [Coinbase!](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"}
+Currently, Coinbase does not sell Adex. Rumors suggest that in early 2018 several new coins, including Adex, may be added to Coinbase. If you want to buy Adex, please follow the above steps. You can trade Bitcoin for Adex on [Binance](https://www.binance.com/?ref=18991911){:target="_blank"}. If you don't own any Bitcoin, use [Coinbase](https://www.coinbase.com/join/53bc38a3b11f6623df000004){:target="_blank"} to get started!
 
-## Step 4: How to Store you AdEx, Securely!
+## Step 4: How to securely store AdEx
 
-Adex is a coin that runs on the Ethereum Blockchain, which means that it can be stored on [myEtherWallet](https://www.myetherwallet.com/). 
+Adex is an ERC20 coin that runs on the Ethereum Blockchain, which means that it can be stored on [myEtherWallet](https://www.myetherwallet.com/).
+Adex is also easily and securely stored on the highly popular hardware wallet [Ledger Nano S!](https://www.ledgerwallet.com/r/607d)
 
-To start using myEtherWallet, you will need to come up with a secure password. At the minimum, your password should be 9 characters long. After entering a password, press create new wallet. You will be taken to this screen where it asks to download a keystore file.
-This keystore file is an encrypted private key, that gives you access to your funds. Please make a backup of this file, by storing another copy of it on a USB or other storage device. If you lose this, it is very difficult to recover your coins. 
+To start using myEtherWallet, you will need to come up with a secure password. Your password should be at least 9 characters long. After entering a password, click "create new wallet". You will be taken to this screen where it asks to download a keystore file.
+
+A keystore file is an encrypted private key, that gives you access to your funds. Please make a backup of this file, by storing another copy of it on a USB or other storage device. If you lose this, it is very difficult to recover your coins.
 
 ![BuyAdex](/img/ethpass.png){: .medium-pic}
 ![BuyAdex](/img/keystore.png){: .medium-pic}
 
-After clicking "I understand", it will ask you show you your private key, that is un encrypted. You can print a paper wallet through the website if you would like. A paper wallet is a document that contains all the neccesary data to access your cryptocurrency. Usually containing QR Codes and your private keys.
+After clicking "I understand" it will show you your unencrypted private key. If you prefer, you can print a paper wallet through the website. A paper wallet is a document that contains all the data necessary to access your cryptocurrency, usually containing QR Codes and your private keys.
 
 
-Next, it will ask you how you would like to access your wallet. We just downloaded our encrypted private key, so we will access it using this. Press "Keystore/JSON File", and select the encrypted private key file you just downloaded. Press unlock and we are pretty much done! Your public address will be shown below. This is where you can send your ERC-20 Coins. ERC-20 Coins are any cryptocurrency that runs on the ethereum blockchain. This includes coins such as Walton, Adex, and Decentraland. 
+Next, myEtherWallet will ask you how you would like to access your wallet. You will access the wallet using the newly-downloaded encrypted private key. Click "Keystore/JSON File", and select the encrypted private key file you just downloaded. Press "unlock" and your public address will be displayed. This address is where you can send your ERC-20 Coins. ERC-20 Coins are any cryptocurrency that runs on the Ethereum blockchain. This includes coins such as 0x, Tron, and OmiseGo.
 
 ## What is the Circulating Supply of Adex?
 
-At the time of this writing, there is a circulating supply of 60,248,315 ADX. This will eventually reach the cap of 100,000,000 ADX.	
- 
+At the time of this writing, there is a circulating supply of approximately 60 million ADX. This will eventually reach a cap of 100,000,000 ADX.

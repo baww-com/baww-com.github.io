@@ -15,7 +15,7 @@ Most online exchanges require ID verificaiton. So if you want to buy Bitcoin ano
 
 ## Buying Bitcoin Anonymously
 
-You could try to buy using [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwideio){:target="_blank"} as they require the least amount of information of most Bitcoin exchanges. Even if you buy bitcoins anonymously, in most cases you still owe taxes on your capital gains if you make a purchase. Check your country's tax laws for Bitcoin. 
+You could try to buy using [Coinmama](https://www.coinmama.com/?ref=buyaltcoinsworldwide){:target="_blank"} as they require the least amount of information of most Bitcoin exchanges. Even if you buy bitcoins anonymously, in most cases you still owe taxes on your capital gains if you make a purchase. Check your country's tax laws for Bitcoin. 
 
 ## Coin ATM Radar
 
