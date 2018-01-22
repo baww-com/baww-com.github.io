@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learn more about these Cryptocurrencies
-seo_title: "How to Mine, Store and Buy Cryptocurrency Altcoins"
+seo_title: "How to Buy and Store Cryptocurrency Altcoins"
 permalink: /altcoins/
 ---
 
