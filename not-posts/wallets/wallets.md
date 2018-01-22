@@ -28,4 +28,4 @@ Hardware wallets are surging right now due to web wallets and/or exchanges being
 The [Ledger Nano S](https://www.ledgerwallet.com/r/607d) is a great hardware wallet, with support for many altcoins. Plus, Ledger is actively adding more apps to the Ledger ecosystem in order to support even more altcoins. As of January 2018, Ledger had already sold more than 1 million Nano S wallets!
 
 ### Trezor Bitcoin Wallet
-[Trezor Bitcoin Wallet][https://trezor.io] is also widely used and is fully open source. It supports bitcoin and several altcoins natively but you will need to use MyEtherWallet as an interface for ERC20 tokens such as Ethereum. Despite this, Trezor is a very secure device with a solid reputation.  
+[Trezor Bitcoin Wallet](https://trezor.io) is also widely used and is fully open source. It supports bitcoin and several altcoins natively but you will need to use MyEtherWallet as an interface for ERC20 tokens such as Ethereum. Despite this, Trezor is a very secure device with a solid reputation.  
