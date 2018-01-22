@@ -29,14 +29,3 @@ The [Ledger Nano S](https://www.ledgerwallet.com/r/607d) is a great hardware wal
 
 ### Trezor Bitcoin Wallet
 [Trezor Bitcoin Wallet][https://trezor.io] is also widely used and is fully open source. It supports bitcoin and several altcoins natively but you will need to use MyEtherWallet as an interface for ERC20 tokens such as Ethereum. Despite this, Trezor is a very secure device with a solid reputation.  
-
-Read our in-depth guides on the following cryptocurrency wallets:
-
-1. [Stellar Lumens](/wallets/stellarlumens/)
-2. [Ripple](/wallets/ripple/)
-3. [Ark](/wallets/ark/)
-4. [Neo](/wallets/neo/)
-5. [Qtum](/wallets/qtum/)  
-6. [Stratis](/wallets/stratis/)
-7. [Vertcoin](/wallets/vertcoin/)
-8. [IOTA](/wallets/iota/)
