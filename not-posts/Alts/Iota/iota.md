@@ -84,7 +84,7 @@ After hitting Confirm Buy, you are finished with this step! Next will be transfe
 
 ## Step 2: Transfer Bitcoin to Binance
 
-Now you need to move bitcoin to an exchange that trades BTC/IOTA pairs. [Binance](https://www.binance.com/?ref=18991911){:target="_blank"} is highly popular due to its intuitive interface and solid customer support. Click the send button on Coinbase as seen in red highlight in the picture below. You will be asked for the recipient's wallet address. Enter your Binance Bitcoin address, which you can find by going to the "Funds" tab on the Binance navigation bar, then clicking "Deposits Withdrawals". Once on this screen, you will see a list of coins. Scroll down to Bitcoin, and hit the "Deposit" button. Copy the address that appears and paste into Coinbase. Click send on Coinbase, and wait about 30 minutes for your BTC to arrive in your Binance wallet for the IOTA altcoin.
+Now you need to move bitcoin to an exchange that trades BTC/IOTA pairs. [Binance](https://www.binance.com/?ref=18991911){:target="_blank"} is highly popular due to its intuitive interface and solid customer support. Click the send button on Coinbase as seen in red highlight in the picture below. You will be asked for the recipient's wallet address. Enter your Binance Bitcoin address, which you can find by going to the "Funds" tab on the Binance navigation bar, then clicking "Balances". Once on this screen, you will see a list of coins. Scroll down to Bitcoin, and hit the "Deposit" button. Copy the address that appears and paste into Coinbase. Click send on Coinbase, and wait about 30 minutes for your BTC to arrive in your Binance wallet for the IOTA altcoin.
 
 
 ![Coinbasehome](/img/Send1.png){: .medium-pic}
